@@ -1,0 +1,155 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge; charset=utf-8">
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- CSS Dependencies -->
+<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+<link href="/static/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/shards.min.css">
+<link rel="stylesheet" href="/static/css/shards-extras.min.css">
+</head>
+<body class="shards-landing-page--1">
+<!-- Welcome Section -->
+
+<div class="welcome d-flex justify-content-center flex-column">
+<div class="container">
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
+	<a class="navbar-brand" href="#">
+	  <!-- <img src="images/agency-landing/gen.svg"  > -->
+	  <!--  -->
+	  <img src="static/img/ICONrice.png" align="top" height="50" align="AbsBottom" width="50" >
+
+
+<!--  -->
+	  <font size=6 color="black">
+	  RPRER</font>
+	</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+	  <span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNavDropdown">
+	  <ul class="navbar-nav">
+		<li class="nav-item active">
+		  <a class="nav-link" href="#" ><font size=4 color="black"><B>首页 </B></font><span class="sr-only">(current)</span></a>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link" href="/search_entity"><font size=4 color="black"><B>实体关系查询</B></font></a>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link" href="/relation_extract"><font size=4 color="black"><B>实体关系抽取</B></font></a>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link" href="/ask"><font size=4 color="black"><B>实体关系问答</B></font></a>
+		</li>
+	  </ul>
+
+	  <ul class="navbar-nav ml-auto">
+		{% if request.session.is_login %}
+		<a class="nav-link" href="/detail"><font size=3 color="black">{{ request.session.user_name }}欢迎回来！</font></a>
+    	{% else %}
+    	<font size=3 color="black">尚未登录</font>
+    	{% endif %}
+		<a class="nav-link" href="/register"><font size=3 color="black"><B>注册</B></font></a>&nbsp;
+		<a class="nav-link" href="/login"><font size=3 color="black"><B>登录</B></font></a>&nbsp;
+		<a class="nav-link" href="/logout"><font size=3 color="black"><B>登出</B></font></a>&nbsp;
+		<a href="https://berlinfog.github.io/"><img src="static/img/GitHub.png" width="30" height="30"  ></a>
+	  </ul>
+
+	</div>
+  </nav>
+  <!-- / Navigation -->
+</div> <!-- .container -->
+
+<!-- Inner Wrapper -->
+<div class="inner-wrapper mt-auto mb-auto container">
+  <div class="row">
+	<div class="col-md-9">
+		<h1 class="welcome-heading display-4 text-white"><font size=12 color="black"><b>水稻表型关系抽取研究</b></font></h1>
+		<p class="text-white"><font size=5 color="black"><B>RPRER(Rice Phenotype Relation Extraction Research)</B></font></p>
+		<!-- <h1 class="welcome-heading display-4 text-white"><font size=10 color="black"><b>基于BERT的水稻表型组学关系抽取系统</b></font></h1> -->
+		<p class="text-white"><font size=5 color="black"><B>三大功能：实体关系查询、实体关系抽取、实习关系问答</B></font></p>
+	</div>
+  </div>
+</div>
+<!-- / Inner Wrapper -->
+</div>
+<!-- / Welcome Section -->
+
+<!-- Our Services Section -->
+<div id="our-services" class="our-services section py-4">
+<h3 class="section-title text-center my-5">功能</h3>
+<!-- Features -->
+<div class="features py-4 mb-4">
+  <div class="container">
+	<div class="row">
+	  <div class="feature py-4 col-md-6 d-flex">
+		<div class="icon text-primary mr-3"><a href="/search_entity"><i class="fa fa-search"></i></a></div>
+		<div class="px-4">
+			<h5><a href="/search_entity">实体关系查询</a></h5>
+			<!-- <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p> -->
+		
+		</div>
+	  </div>
+	  <div class="feature py-4 col-md-6 d-flex">
+		<div class="icon text-primary mr-3"><a href="/relation_extract"><i class="fa fa-code"></i></a></div>
+		<div class="px-4">
+			<h5><a href="/relation_extract">实体关系抽取</a></h5>
+			<!-- <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p> -->
+		</div>
+	  </div>
+	</div>
+
+	<div class="row">
+	  <div class="feature py-4 col-md-6 d-flex">
+		<div class="icon text-primary mr-3"><a href="/ask"><i class="fa fa-question"></i></a></div>
+		<div class="px-4">
+			<h5><a href="/ask">实习关系问答</a></h5>
+			<!-- <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p> -->
+		</div>
+
+	  </div>
+	  <div class="feature py-4 col-md-6 d-flex">
+		<div class="icon text-primary mr-3"><a href="/login"><i class="fa fa-sign-in"></i></a></div>
+		<div class="px-4">
+			<h5><a href="/login">登录</a></h5>
+			<!-- <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p> -->
+		</div>
+		
+	  </div>
+	</div>
+  </div>
+</div>
+<!-- / Features -->
+</div>
+<!-- Footer Section -->
+<footer>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+	<!-- <font color="white">水稻表型组学关系抽取</font> -->
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	  <span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNav">
+	  <ul class="navbar-nav ml-auto">
+		<li class="nav-item active">
+		  <a class="nav-link" href="#">首页 <span class="sr-only">(current)</span></a>
+		</li>
+	  </ul>
+	</div>
+
+  </div>
+</nav>
+</footer>
+<!-- / Footer Section -->
+
+<!-- JavaScript Dependencies -->
+<script src="/static/js/jquery-3.2.1.min.js"></script>
+<script src="/static/js/popper.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+</body>
+</html>

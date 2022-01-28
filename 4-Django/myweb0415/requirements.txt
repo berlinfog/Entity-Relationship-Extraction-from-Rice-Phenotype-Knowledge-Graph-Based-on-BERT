@@ -1,0 +1,11 @@
+paramiko==2.7.1
+transformers==2.6.0
+tqdm==4.42.0
+Django==3.0.2
+nltk==3.3
+torch==1.4.0
+pytorch_transformers==1.2.0
+numpy==1.17.0
+six==1.11.0
+scikit_learn==0.22.2.post1
+toolkit==0.0.3

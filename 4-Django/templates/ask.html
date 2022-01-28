@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+<meta http-equiv="Content-Type" content="ie=edge; charset=utf-8"/>
+    <title>entitysearch</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/static/js/echarts.js"></script>
+{#    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>#}
+<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+<link href="/static/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/shards.min.css">
+<link rel="stylesheet" href="/static/css/shards-extras.min.css">
+</head>
+<body style="display: flex;
+flex-direction: column;
+height: 100%;">
+<!--  -->
+<div class="welcome d-flex justify-content-center flex-column" style="flex: 0 0 auto;">
+    <div id="1" class="container">
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-lg nav-light ">
+        <a class="navbar-brand" href="#">
+          
+          <font size=6 color="black">
+            RPRER</font>
+        </a>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="/" ><font size=4 color="black"><B>首页 </B></font><span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/search_entity"><font size=4 color="black"><B>实体关系查询</B></font></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/relation_extract"><font size=4 color="black"><B>实体关系抽取</B></font></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"><font size=4 color="black"><B>实体关系问答</B></font></a>
+            </li>
+          </ul>
+    
+          {% if request.session.is_login %}
+          <a class="nav-link" href="/detail"><font size=3 color="black">{{ request.session.user_name }}欢迎回来！</font></a>
+          {% else %}
+          <font size=3 color="black">尚未登录</font>
+          {% endif %}
+    
+        </div>
+      </nav>
+      <!-- / Navigation -->
+</div>
+</div>
+
+
+<!--  -->
+<div class="container" style="flex: 1 0 auto;">
+    <div class="row">
+    <!--head start-->
+    <div class = "col-md-12">
+        <div class="panel panel-default ">
+            <div class = "panel-body" >
+                <!--搜索框-->
+
+                <div style="width:60%;text-align:center;margin: 180px;">
+                <form method = "get" id = 'searchEntityForm' >
+                    <div >
+                        <div class="input-group">
+                            <input type="text" id = "user_text" name = "user_text" class="form-control" placeholder="输入问题" aria-describedby="basic-addon1">
+                            <span class="btn btn-primary input-group-addon" type="button" id="relationSearchButton" style="background-color:#4592fe ; padding:6px 38px" onclick="document.getElementById('searchEntityForm').submit();"><font color="white"> 查询</font></span>
+                         </div>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--relation start-->
+</div>
+<h5>回答:{{result}}</h5>
+</div>
+
+<footer style="flex: 0 0 auto;">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <font color="white">水稻表型组学关系抽取</font>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">首页 <span class="sr-only">(current)</span></a>
+            </li>
+          </ul>
+        </div>
+    
+      </div>
+    </nav>
+    </footer>
+</body>
+</html>

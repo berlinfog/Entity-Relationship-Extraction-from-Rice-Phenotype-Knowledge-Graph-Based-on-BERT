@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>register</title>
+
+    <!-- Bootstrap -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+        <div class="col-md-4 col-md-offset-4">
+          <form class='form-register' action="/register/" method="post">
+
+              {% if message %}
+                  <div class="alert alert-warning">{{ message }}</div>
+              {% endif %}
+
+              {% csrf_token %}
+
+              <h2 class="text-center">欢迎注册</h2>
+              <div class="form-group">
+                  {{ register_form.username.label_tag }}
+                  {{ register_form.username}}
+              </div>
+              <div class="form-group">
+                  {{ register_form.password1.label_tag }}
+                  {{ register_form.password1 }}
+              </div>
+              <div class="form-group">
+                  {{ register_form.password2.label_tag }}
+                  {{ register_form.password2 }}
+              </div>
+              <div class="form-group">
+                  {{ register_form.email.label_tag }}
+                  {{ register_form.email }}
+              </div>
+              <div class="form-group">
+                  {{ register_form.sex.label_tag }}
+                  {{ register_form.sex }}
+              </div>
+              <div class="form-group">
+                  {{ register_form.captcha.errors }}
+                  {{ register_form.captcha.label_tag }}
+                  {{ register_form.captcha }}
+              </div>
+
+              <button type="reset" class="btn btn-default pull-left">重置</button>
+              <button type="submit" class="btn btn-primary pull-right">提交</button>
+
+          </form>
+          <ul class="nav navbar-nav navbar-right">
+            {% if request.session.is_login %}
+                <li><a href="/">当前在线：{{ request.session.user_name }}</a></li>
+                <li><a href="/">登出</a></li>
+            {% else %}
+                <li><a href="/login/">登录</a></li>
+                <li><a href="/register/">注册</a></li>
+            {% endif %}
+        </ul>
+        </div>
+    </div> <!-- /container -->
+    <script src="/static/js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/static/js/bootstrap.min.js"></script>
+    </body>
+    </html>

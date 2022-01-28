@@ -1,0 +1,832 @@
+[
+{"Term": ["性状本体"], "ID": ["TO:0000387"], "Concept": ["用来描述发育中或已成熟植物表型特征特性的词汇表."], "Parenterm": [], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000387"}
+,{"Term": ["育性"], "ID": ["TO:0000392"], "Concept": [], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000392"}
+,{"Term": ["生化性状（）"], "ID": ["TO:0000277"], "Concept": ["The traits associated with assay of either of the effected metabolite profile, enzymatic activity and biological processes which includes the physiological processes."], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000277"}
+,{"Term": ["株型和活力性状"], "ID": ["TO:0000133"], "Concept": [], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000133"}
+,{"Term": ["品质性状"], "ID": ["TO:0000597"], "Concept": ["Any trait contributing to the improvement of overall improvement of the product economical and or commercial importance."], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000597"}
+,{"Term": ["形态解剖学特征（株型）"], "ID": ["TO:0000017"], "Concept": ["植物的某个解剖结构相关的性状。"], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000017"}
+,{"Term": ["产量性状"], "ID": ["TO:0000371"], "Concept": ["与植物可收获产物相关的性状"], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000371"}
+,{"Term": ["胁迫性状"], "ID": ["TO:0000164"], "Concept": [], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000164"}
+,{"Term": ["其它杂项性状"], "ID": ["TO:0000183"], "Concept": ["性状实例，不能被分配到其它八个顶级亲本术语中，如生化、解剖学、发育质量、身高/活力、不育/生育、胁迫和产量。"], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000183"}
+,{"Term": ["生长发育特性"], "ID": ["TO:0000357"], "Concept": [], "Parenterm": ["性状本体"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000357"}
+,{"Term": ["不亲和性（）"], "ID": ["TO:0000035"], "Concept": [], "Parenterm": ["育性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000035"}
+,{"Term": ["不育或低育"], "ID": ["TO:0000485"], "Concept": [], "Parenterm": ["育性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000485"}
+,{"Term": ["矿质离子含量相关性状"], "ID": ["TO:0000465"], "Concept": ["The total mineral and/or ion content measured in a plant or a plant part."], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000465"}
+,{"Term": ["生物过程相关性状（）"], "ID": ["TO:0000283"], "Concept": ["The trait associated with assay to determine the effected biological process."], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000283"}
+,{"Term": ["秸秆代谢能"], "ID": ["TO:0020081"], "Concept": [], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020081"}
+,{"Term": ["秸秆有机质可消化率"], "ID": ["TO:0020080"], "Concept": [], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020080"}
+,{"Term": ["代谢产物含量相关性状（）"], "ID": ["TO:0000281"], "Concept": ["The trait associated with an assay to determine the effected metabolite profile."], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000281"}
+,{"Term": ["酶活性和蛋白质含量"], "ID": ["TO:0000282"], "Concept": ["酶活性和蛋白质含量相关性状"], "Parenterm": ["生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000282"}
+,{"Term": ["植株宽度"], "ID": ["TO:0006062"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006062"}
+,{"Term": ["植株颜色"], "ID": ["TO:0000708"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000708"}
+,{"Term": ["植物容积"], "ID": ["TO:0000559"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000559"}
+,{"Term": ["可育（）"], "ID": ["TO:0000420"], "Concept": [], "Parenterm": ["育性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000420"}
+,{"Term": ["活力相关性状"], "ID": ["TO:0000250"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000250"}
+,{"Term": ["植物季相"], "ID": ["TO:0000737"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000737"}
+,{"Term": ["高度相关性状"], "ID": ["TO:0000171"], "Concept": [], "Parenterm": ["株型和活力性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000171"}
+,{"Term": ["过氧化氢含量（双氧水含量）"], "ID": ["TO:0000605"], "Concept": [], "Parenterm": ["氧化胁迫", "生化性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000605"}
+,{"Term": ["生物胁迫性状"], "ID": ["TO:0000179"], "Concept": [], "Parenterm": ["胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000179"}
+,{"Term": ["总生物量（干物质量;总干重）"], "ID": ["TO:0000457"], "Concept": [], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000457"}
+,{"Term": ["成穗率"], "ID": ["TO:0000453"], "Concept": [], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000453"}
+,{"Term": ["果实重量"], "ID": ["TO:0002746"], "Concept": ["给定数量的果实的平均重量"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002746"}
+,{"Term": ["种子产量（制种产量）"], "ID": ["TO:0000905"], "Concept": [], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000905"}
+,{"Term": ["非生物胁迫性状（abiotic stress tolerance）"], "ID": ["TO:0000168"], "Concept": ["Response by the plant in terms of resistivity or sensitivity to abiotic stress."], "Parenterm": ["胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000168"}
+,{"Term": ["单株产量"], "ID": ["TO:0000449"], "Concept": [], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000449"}
+,{"Term": ["单穗产量"], "ID": ["TO:0000450"], "Concept": [], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000450"}
+,{"Term": ["异交潜力"], "ID": ["TO:0000330"], "Concept": ["衡量主穗异交的结实率。"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000330"}
+,{"Term": ["收获指数（经济系数）"], "ID": ["TO:0000128"], "Concept": ["作物收获时经济产量（籽粒、果实等）与生物产量之比，其生理本质反映了碳素从源到子粒库的分配比例，该性状一定程度上反映了源器官光合产物转运到库器官的能力大小，即流的畅通性。"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000128"}
+,{"Term": ["花序重量"], "ID": ["TO:0000583"], "Concept": ["在一个研究中，着生有成熟果实的花序平均重量。"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000583"}
+,{"Term": ["苗重"], "ID": ["TO:0000568"], "Concept": ["穗部外的地上部重量"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000568"}
+,{"Term": ["相对产量"], "ID": ["TO:0000153"], "Concept": ["胁迫或处理下，某种作物单位面积的产量相对对照时单位面积产量的比例。"], "Parenterm": ["产量性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000153"}
+,{"Term": ["再生能力"], "ID": ["TO:0000096"], "Concept": ["草本植物收获后，主茎和分蘖的再生。"], "Parenterm": ["产量性状", "地上部发育性状", "活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000096"}
+,{"Term": ["杂种优势"], "ID": ["TO:0000355"], "Concept": ["在植物或动物中，种间或种内杂交产生的杂种第一代在体型、生长率繁殖力及行为特征方面均比亲本优越的现象。"], "Parenterm": ["产量性状", "活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000355"}
+,{"Term": ["植物构造"], "ID": ["TO:0000839"], "Concept": ["植物构造形态解剖学特征"], "Parenterm": ["形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000839"}
+,{"Term": ["淀粉消化率"], "ID": ["TO:0002647"], "Concept": ["以百分比来衡量饲草料中淀粉被动物消化吸收的比重。"], "Parenterm": ["品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002647"}
+,{"Term": ["花序数目"], "ID": ["TO:0000582"], "Concept": ["在某一研究中，单个植株上花序的平均数目。"], "Parenterm": ["花序形态解剖学特征", "产量性状", "穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000582"}
+,{"Term": ["干物质消化率"], "ID": ["TO:0002644"], "Concept": ["用百分比表示牛马饲料中干物质在饲喂后被动物体吸收的比重。"], "Parenterm": ["品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002644"}
+,{"Term": ["果实品质（）"], "ID": ["TO:0002728"], "Concept": ["Any trait contributing to overall improvement of the fruit. Often associated to economical and or commercial importance."], "Parenterm": ["品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002728"}
+,{"Term": ["颖壳颜色"], "ID": ["TO:0000706"], "Concept": ["Describes the color of hull."], "Parenterm": ["品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000706"}
+,{"Term": ["分蘖力（TIAB）"], "ID": ["TO:0000329"], "Concept": ["Degree of tillering is affected by variety, spacing of plants in the field, season of planting, and environmental conditions e.g. nitrogen levels."], "Parenterm": ["产量性状", "地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000329"}
+,{"Term": ["表型的可接受性(整体喜好度)（overall liking）"], "ID": ["TO:0000322"], "Concept": ["Breeding objectives for each variety and trait varies. The evaluation should reflect the overall acceptability of the variety."], "Parenterm": ["品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000322"}
+,{"Term": ["同源异形（同源异型）"], "ID": ["TO:0002611"], "Concept": ["由于一个突变导致一组成员的一个成员承担另一个成员的身份，例如，将萼片转变成花瓣，从而导致某器官的增加、减少或新器官的发育。"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002611"}
+,{"Term": ["种子品质（籽粒品质）"], "ID": ["TO:0000162"], "Concept": ["The quality assessment of the seed commonly called as kernel or grain in case of cereals, as well as those of the dehulled grains. The quality can be associated with the commercial value either direct"], "Parenterm": ["种子形态解剖学性状", "品质性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000162"}
+,{"Term": ["白化植株分化频率"], "ID": ["TO:0000464"], "Concept": [], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000464"}
+,{"Term": ["胚发育性状"], "ID": ["TO:0000620"], "Concept": ["从受精卵到萌发阶段，一系列跟胚发生和形成相关的性状。"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000620"}
+,{"Term": ["根发育性状"], "ID": ["TO:0000656"], "Concept": ["对根（或根一部分）发育有影响的可观察性状"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000656"}
+,{"Term": ["果实成熟性状"], "ID": ["TO:0002633"], "Concept": ["一种测定水果成熟程度变化的方法。"], "Parenterm": ["果实品质", "生长发育特性", "生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002633"}
+,{"Term": ["小穗数"], "ID": ["TO:0000456"], "Concept": ["单个穗或单个植株上的小穗数量"], "Parenterm": ["小穗形态解剖学性状", "产量性状", "穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000456"}
+,{"Term": ["种子发育特征"], "ID": ["TO:0000653"], "Concept": ["影响种子（或种子一部分）发育的相关性状"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000653"}
+,{"Term": ["致死性"], "ID": ["TO:0005285"], "Concept": [], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005285"}
+,{"Term": ["每穗瘪粒数"], "ID": ["TO:0000028"], "Concept": ["禾本科植物穗子上的未灌浆的空粒数。"], "Parenterm": ["每穗粒数", "生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000028"}
+,{"Term": ["粒厚"], "ID": ["TO:0000399"], "Concept": ["带种皮脱壳籽粒的厚度。"], "Parenterm": ["籽粒大小", "果实品质", "生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000399"}
+,{"Term": ["孢子母细胞发育性状"], "ID": ["TO:0000722"], "Concept": ["Traits associated with observing effects on the sporocyte development."], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000722"}
+,{"Term": ["维管束发育性状"], "ID": ["TO:0020109"], "Concept": ["维管束发育相关性状。"], "Parenterm": ["维管组织形态解剖学性状", "生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020109"}
+,{"Term": ["细胞生长发育相关性状（）"], "ID": ["TO:0002686"], "Concept": ["Traits associated with observing effects on the growth and development of the plant cell and its parts."], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002686"}
+,{"Term": ["组织发育性状"], "ID": ["TO:0006015"], "Concept": ["影响组织发育的相关性状。"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006015"}
+,{"Term": ["生殖生长期"], "ID": ["TO:0000366"], "Concept": ["植物生命周期中的生殖生长阶段"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000366"}
+,{"Term": ["地上部发育性状"], "ID": ["TO:0000654"], "Concept": ["观察到的地上部或其部分发育有关的性状。"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000654"}
+,{"Term": ["杂交不亲和性（HYBIC）"], "ID": ["TO:0000036"], "Concept": ["由于种属间存在着种种隔离机制，致使远缘杂交常表现不亲和或获得的远缘杂种表现不育。"], "Parenterm": ["不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000036"}
+,{"Term": ["自交不亲和性（Genetic self-incompatibility）"], "ID": ["TO:0000310"], "Concept": ["植物能识别并拒绝来自自身的花粉，因此降低了近亲繁殖。"], "Parenterm": ["不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000310"}
+,{"Term": ["营养生长期"], "ID": ["TO:0000369"], "Concept": ["植物生命周期中的营养生长阶段"], "Parenterm": ["生长发育特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000369"}
+,{"Term": ["小穗不育（SPKST）"], "ID": ["TO:0000436"], "Concept": ["Determined by counting the filled and unfilled spikelets of the bagged grass inflorescence. "], "Parenterm": ["不育或低育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000436"}
+,{"Term": ["雌性不育（FEMST）"], "ID": ["TO:0000358"], "Concept": [], "Parenterm": ["不育或低育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000358"}
+,{"Term": ["雄性不育"], "ID": ["TO:0000437"], "Concept": ["In plants, it represents the incompetence of the pollen to fertilize the ovum. Reasons could be non-viable pollen, incompatibility, pollen abortion, toxicity, genetic etc. Usually determined by either"], "Parenterm": ["不育或低育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000437"}
+,{"Term": ["砷含量（砷浓度）"], "ID": ["TO:0006054"], "Concept": ["一定量的植物（或植物部分，或植物浸出液）中砷离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006054"}
+,{"Term": ["硒离子浓度（硒含量）"], "ID": ["TO:0006055"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中硒离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006055"}
+,{"Term": ["锌离子浓度"], "ID": ["TO:0006053"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中锌离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006053"}
+,{"Term": ["镍离子浓度"], "ID": ["TO:0006051"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中镍离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006051"}
+,{"Term": ["铜离子浓度"], "ID": ["TO:0006052"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中铜离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006052"}
+,{"Term": ["钼浓度"], "ID": ["TO:0006056"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中总的钼元素浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006056"}
+,{"Term": ["镉离子浓度"], "ID": ["TO:0006059"], "Concept": ["一定量的植株（或植株一部分，或植物浸出液）中镉离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006059"}
+,{"Term": ["钴离子浓度"], "ID": ["TO:0006050"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中钴离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006050"}
+,{"Term": ["锰离子浓度"], "ID": ["TO:0006048"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中锰离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006048"}
+,{"Term": ["铁离子浓度"], "ID": ["TO:0006049"], "Concept": ["一定量的植株（或植株一部分，或植物浸出液）中铁离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006049"}
+,{"Term": ["钙离子浓度"], "ID": ["TO:0006047"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中钙离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006047"}
+,{"Term": ["硫浓度"], "ID": ["TO:0006046"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中总的硫浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006046"}
+,{"Term": ["磷酸盐含量（磷酸盐离子含量）"], "ID": ["TO:0020102"], "Concept": ["一株植物（或植株一部分）中磷酸盐的总含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020102"}
+,{"Term": ["硼离子浓度"], "ID": ["TO:0006043"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中硼离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006043"}
+,{"Term": ["含铜量"], "ID": ["TO:0020092"], "Concept": ["一株植物或植株一部分中铜离子的总含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020092"}
+,{"Term": ["镁离子浓度"], "ID": ["TO:0006044"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中镁离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006044"}
+,{"Term": ["锰含量（锰离子含量）"], "ID": ["TO:0020091"], "Concept": [], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020091"}
+,{"Term": ["锌含量"], "ID": ["TO:0020090"], "Concept": ["一株植物或植株一部分中锌离子的总含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020090"}
+,{"Term": ["含氮量"], "ID": ["TO:0020093"], "Concept": ["一株植物或植株一部分中总的氮含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020093"}
+,{"Term": ["含铁量"], "ID": ["TO:0020089"], "Concept": ["一株植物或植株一部分中铁离子总含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020089"}
+,{"Term": ["钠钾含量比（钠钾比）"], "ID": ["TO:0000525"], "Concept": ["一株植物或植株一部分中总钠离子和总钾离子的比值。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000525"}
+,{"Term": ["镁钾含量比（镁钾比）"], "ID": ["TO:0000603"], "Concept": ["一株植物或植株一部分中总镁离子和总钾离子的比值。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000603"}
+,{"Term": ["锂离子浓度"], "ID": ["TO:0006042"], "Concept": ["一定量的植株（或植株部分，或植物浸出液）中锂离子总浓度。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006042"}
+,{"Term": ["含碳量"], "ID": ["TO:0000466"], "Concept": ["干重中碳的数量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000466"}
+,{"Term": ["含灰量"], "ID": ["TO:0000607"], "Concept": [], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000607"}
+,{"Term": ["孢子发生"], "ID": ["TO:0000727"], "Concept": [], "Parenterm": ["生物过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000727"}
+,{"Term": ["淀粉粒形成（淀粉粒合成）"], "ID": ["TO:0002658"], "Concept": ["检测植株中淀粉粒是否形成，这与淀粉的生物合成和分枝相关。"], "Parenterm": ["生物过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002658"}
+,{"Term": ["钾含量"], "ID": ["TO:0000609"], "Concept": ["一株植物或植株一部分中总的钾离子含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000609"}
+,{"Term": ["钠含量"], "ID": ["TO:0000608"], "Concept": ["一株植物或植株一部分中总的钠离子含量。"], "Parenterm": ["矿质离子含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000608"}
+,{"Term": ["秸秆氮含量"], "ID": ["TO:0020082"], "Concept": [], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020082"}
+,{"Term": ["生理过程相关性状"], "ID": ["TO:0000349"], "Concept": ["Trait to assay the physiological processes in a plant"], "Parenterm": ["生物过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000349"}
+,{"Term": ["细胞分裂周期"], "ID": ["TO:0000728"], "Concept": ["The traits associated with various developmental landmarks and processes of cell division during either the meiotic cell cycle or mitotic cell cycle."], "Parenterm": ["细胞生长发育相关性状", "生物过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000728"}
+,{"Term": ["脂肪和油的含量"], "ID": ["TO:0000604"], "Concept": ["植株或植株一部分中脂肪和油的含量。"], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000604"}
+,{"Term": ["木质素含量（）"], "ID": ["TO:0000731"], "Concept": ["Measures the lignin content in a plant or plant part."], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000731"}
+,{"Term": ["碳水化合物含量"], "ID": ["TO:0000291"], "Concept": ["Trait asssociated with the carbohydrate content, concentration and/or yeild from the plant or plant part."], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000291"}
+,{"Term": ["植物化学复合物含量（）"], "ID": ["TO:0000674"], "Concept": ["They are non-nutritive plant chemicals that have protective or disease preventive properties."], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000674"}
+,{"Term": ["氨基酸含量"], "ID": ["TO:0002673"], "Concept": ["The amino acid content in a plant or plant part."], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002673"}
+,{"Term": ["蛋白质含量"], "ID": ["TO:0000598"], "Concept": ["植物或植物某部分如籽粒中的蛋白质含量。"], "Parenterm": ["酶活性和蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000598"}
+,{"Term": ["生长激素含量"], "ID": ["TO:0000476"], "Concept": ["Measures the growth hormone content in a plant or plant part."], "Parenterm": ["代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000476"}
+,{"Term": ["酶活性（enzymatic activity, enzyme catalytic activity）"], "ID": ["TO:0000599"], "Concept": ["Catalysis of a biochemical reaction at physiological temperatures. In biologically catalyzed reactions, the reactants are known as substrates, and the catalysts are naturally occurring macromolecular "], "Parenterm": ["酶活性和蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000599"}
+,{"Term": ["体积茎杆数比"], "ID": ["TO:0000561"], "Concept": ["整株占有的总的体积与总的茎杆数或分蘖数的比值。"], "Parenterm": ["植物容积"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000561"}
+,{"Term": ["每茎体积"], "ID": ["TO:0000560"], "Concept": [], "Parenterm": ["植物容积"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000560"}
+,{"Term": ["育性恢复（RF）"], "ID": ["TO:0000497"], "Concept": [], "Parenterm": ["可育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000497"}
+,{"Term": ["花粉可育（POFRT）"], "ID": ["TO:0000421"], "Concept": [], "Parenterm": ["可育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000421"}
+,{"Term": ["发芽率"], "ID": ["TO:00100011"], "Concept": ["测试种子发芽数占测试种子总数的百分比。"], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:00100011"}
+,{"Term": ["香味（odour,scent）"], "ID": ["TO:0000087"], "Concept": ["Assay to detrmine the aroma of the cooked/uncooked grains. "], "Parenterm": ["种子成分性状", "代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000087"}
+,{"Term": ["根活力"], "ID": ["TO:0000434"], "Concept": [], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000434"}
+,{"Term": ["花药培养力"], "ID": ["TO:0000425"], "Concept": [], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000425"}
+,{"Term": ["相对生长率"], "ID": ["TO:0000515"], "Concept": ["与正常条件相比，处理后的植物生长的相对速率。"], "Parenterm": ["非生物胁迫性状", "活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000515"}
+,{"Term": ["营养生长势"], "ID": ["TO:0000296"], "Concept": ["植物生长发育的旺盛程度，用于评估胁迫和非胁迫条件下的生长量，如新梢生长长度、粗度、叶片大小、分蘖力和株高等。"], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000296"}
+,{"Term": ["麦芽提取物百分比"], "ID": ["TO:0000611"], "Concept": ["衡量酵母营养中可利用的糖和含氮化合物。"], "Parenterm": ["蒸煮酿制品质", "种子成分性状", "代谢产物含量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000611"}
+,{"Term": ["体外再生能力"], "ID": ["TO:0000243"], "Concept": [], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000243"}
+,{"Term": ["种子可育（percent seed fertility, SDFRT）"], "ID": ["TO:0000639"], "Concept": [], "Parenterm": ["种子品质", "可育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000639"}
+,{"Term": ["愈伤组织诱导"], "ID": ["TO:0000428"], "Concept": [], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000428"}
+,{"Term": ["发芽速率"], "ID": ["TO:0000430"], "Concept": ["种子的发芽速度"], "Parenterm": ["活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000430"}
+,{"Term": ["株高"], "ID": ["TO:0000207"], "Concept": [], "Parenterm": ["高度相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000207"}
+,{"Term": ["氧化胁迫"], "ID": ["TO:0002657"], "Concept": ["植物对活性氧的适应和解毒能力"], "Parenterm": ["化学胁迫敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002657"}
+,{"Term": ["微生物伤害抗性（）"], "ID": ["TO:0000242"], "Concept": ["Response by the plant in terms of resistivity or sensitivity to microbes."], "Parenterm": ["生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000242"}
+,{"Term": ["化学胁迫敏感性（化学应力敏感性）"], "ID": ["TO:0000482"], "Concept": ["植物对化学胁迫敏感或产生抵抗力"], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000482"}
+,{"Term": ["动物伤害抗性"], "ID": ["TO:0000054"], "Concept": ["Response by the plant in terms of resistivity or sensitivity to the animals infesting them."], "Parenterm": ["生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000054"}
+,{"Term": ["抗杂草性（）"], "ID": ["TO:0000347"], "Concept": [], "Parenterm": ["生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000347"}
+,{"Term": ["地上部生物量"], "ID": ["TO:0000327"], "Concept": ["植物单株地上部分的生物学总量。"], "Parenterm": ["总生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000327"}
+,{"Term": ["种子数量（每穗种子数）"], "ID": ["TO:0000445"], "Concept": ["单个果实中的种子数，或单个穗中的种子数。"], "Parenterm": ["种子产量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000445"}
+,{"Term": ["发芽率（萌芽率）"], "ID": ["TO:0010001"], "Concept": ["发芽种子与未发芽种子的比率，或种子发芽数占测试种子总数的百分比。"], "Parenterm": ["种子活力", "活力相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0010001"}
+,{"Term": ["直穗病"], "ID": ["TO:0002735"], "Concept": ["畸形的穗，成熟期穗子保持直立，籽粒通常不育。"], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002735"}
+,{"Term": ["粒重"], "ID": ["TO:0000590"], "Concept": ["谷粒的重量"], "Parenterm": ["籽粒大小", "果实重量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000590"}
+,{"Term": ["根体积"], "ID": ["TO:0000233"], "Concept": ["是根质量或密度的间接测量，用排水量法以立方厘米计量。"], "Parenterm": ["非生物胁迫性状", "根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000233"}
+,{"Term": ["根系穿透指数"], "ID": ["TO:0000471"], "Concept": ["穿透根数占总根数的分数。"], "Parenterm": ["非生物胁迫性状", "根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000471"}
+,{"Term": ["根分支"], "ID": ["TO:0000257"], "Concept": ["在不同的处理和环境下，根的分支程度。"], "Parenterm": ["非生物胁迫性状", "根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000257"}
+,{"Term": ["光氧化敏感性"], "ID": ["TO:0100168"], "Concept": [], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0100168"}
+,{"Term": ["气孔密度"], "ID": ["TO:0000566"], "Concept": ["叶表面出现的气孔数量。"], "Parenterm": ["非生物胁迫性状", "叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000566"}
+,{"Term": ["辐照敏感性（radiation sensitivity, RADSN, response to radiation）"], "ID": ["TO:0000161"], "Concept": [], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000161"}
+,{"Term": ["水胁迫（）"], "ID": ["TO:0000237"], "Concept": ["Response by the plant in terms of sensitivity to water stress (quality and quantity of water). "], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000237"}
+,{"Term": ["对温度的应激反应"], "ID": ["TO:0000432"], "Concept": ["Response by the plant in terms of sensitivity to temperature stress."], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000432"}
+,{"Term": ["倒伏率"], "ID": ["TO:0000068"], "Concept": ["Measure of percentage of plants that lodged."], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000068"}
+,{"Term": ["根系深度"], "ID": ["TO:0000519"], "Concept": ["根据存在根的最深土层和该土层中测得的最长根计算的。"], "Parenterm": ["非生物胁迫性状", "根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000519"}
+,{"Term": ["向重性"], "ID": ["TO:0002693"], "Concept": [], "Parenterm": ["非生物胁迫性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002693"}
+,{"Term": ["茎秆强度"], "ID": ["TO:0000051"], "Concept": ["茎杆刚度和韧性"], "Parenterm": ["非生物胁迫性状", "茎秆形态解剖学特征", "茎生长发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000051"}
+,{"Term": ["叶水势"], "ID": ["TO:0000131"], "Concept": ["叶子的水势。"], "Parenterm": ["非生物胁迫性状", "生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000131"}
+,{"Term": ["糙米产量"], "ID": ["TO:0000666"], "Concept": [], "Parenterm": ["单株产量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000666"}
+,{"Term": ["穗重"], "ID": ["TO:0000014"], "Concept": ["在一个研究中，植株或分蘖上穗子的平均重量。"], "Parenterm": ["花序重量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000014"}
+,{"Term": ["毛状体形态解剖学特征"], "ID": ["TO:0000911"], "Concept": ["毛状体的形态解剖学特征"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000911"}
+,{"Term": ["离体植物构造"], "ID": ["TO:0000844"], "Concept": ["离体植株结构相关的性状"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000844"}
+,{"Term": ["植物组织一部分形态解剖学性状"], "ID": ["TO:0000843"], "Concept": ["植物组织某一部分的形态解剖性状"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000843"}
+,{"Term": ["根抗拉力（rpf, RTPF.）"], "ID": ["TO:0000093"], "Concept": [], "Parenterm": ["非生物胁迫性状", "根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000093"}
+,{"Term": ["多组织植物基本组成部分形态解剖学性状"], "ID": ["TO:0000837"], "Concept": ["多组织植物基本组成部分形态解剖学性状。"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000837"}
+,{"Term": ["地上部鲜重"], "ID": ["TO:0000571"], "Concept": ["地上部分（不带穗子）的鲜重"], "Parenterm": ["苗重", "植物鲜重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000571"}
+,{"Term": ["植物细胞形态解剖学性状"], "ID": ["TO:0002683"], "Concept": ["A plant structure anatomy and morphology trait (TO:0000839) which is associated with changes in the anatomy or structure of the plant cell (PO:0009002) and its parts."], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002683"}
+,{"Term": ["地上部干重"], "ID": ["TO:0000552"], "Concept": ["地上部分（不带穗子）烘干后的干物质重量"], "Parenterm": ["苗重", "植株干重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000552"}
+,{"Term": ["植物整体构造"], "ID": ["TO:0000840"], "Concept": [], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000840"}
+,{"Term": ["植物胚形态解剖学特征"], "ID": ["TO:0000064"], "Concept": ["植物胚的形态解剖学特征"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000064"}
+,{"Term": ["多组织植物构造"], "ID": ["TO:0000836"], "Concept": ["一个多组织植物构造（如种子和果实）的形态解剖学相关性状。"], "Parenterm": ["植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000836"}
+,{"Term": ["花序形态解剖学特征"], "ID": ["TO:0000373"], "Concept": ["花序的形态解剖学特征"], "Parenterm": ["生殖枝形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000373"}
+,{"Term": ["地上部形态解剖学特征"], "ID": ["TO:0000077"], "Concept": ["地上部的形态解剖学特征"], "Parenterm": ["植物器官构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000077"}
+,{"Term": ["生殖枝形态解剖学特征"], "ID": ["TO:0000786"], "Concept": ["生殖枝的形态解剖学性状特征"], "Parenterm": ["地上部形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000786"}
+,{"Term": ["穗发育性状"], "ID": ["TO:0000621"], "Concept": ["观察对花序及其部分发育的影响有关的性状。."], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000621"}
+,{"Term": ["植物器官构造"], "ID": ["TO:0000842"], "Concept": ["植物器官结构的形态解剖学特征"], "Parenterm": ["植物整体构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000842"}
+,{"Term": ["室组织性状"], "ID": ["TO:0002622"], "Concept": [], "Parenterm": ["果实品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002622"}
+,{"Term": ["果皮质地"], "ID": ["TO:0002623"], "Concept": [], "Parenterm": ["果实品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002623"}
+,{"Term": ["果实成熟特性"], "ID": ["TO:0002729"], "Concept": ["Traits associated with the fruit abscission zone."], "Parenterm": ["果实品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002729"}
+,{"Term": ["营养同源异形（营养同源异型）"], "ID": ["TO:0002612"], "Concept": [], "Parenterm": ["同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002612"}
+,{"Term": ["生殖同源异形（生殖同源异型）"], "ID": ["TO:0002613"], "Concept": ["由于突变导致一个成员具有另一个成员的特性，例如，将萼片转变成花瓣，从而导致生殖器官和器官部分的增加、减少或新的发育。"], "Parenterm": ["同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002613"}
+,{"Term": ["糙米蛋白含量"], "ID": ["TO:0000138"], "Concept": ["Total protein content of the brown rice."], "Parenterm": ["果实品质", "蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000138"}
+,{"Term": ["种子形态解剖学性状"], "ID": ["TO:0000184"], "Concept": ["植物种子或其一部分的形态解剖学相关性状。"], "Parenterm": ["多组织植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000184"}
+,{"Term": ["外果皮厚度"], "ID": ["TO:0000907"], "Concept": ["外果皮的厚度。"], "Parenterm": ["外果皮形态解剖学性状", "果实品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000907"}
+,{"Term": ["花序缺失"], "ID": ["TO:0002679"], "Concept": [], "Parenterm": ["花序数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002679"}
+,{"Term": ["穗数"], "ID": ["TO:0000443"], "Concept": [], "Parenterm": ["花序数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000443"}
+,{"Term": ["分蘖数（TINB）"], "ID": ["TO:0000346"], "Concept": ["Number of tillers per plant, should represent most plants within a study."], "Parenterm": ["分蘖力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000346"}
+,{"Term": ["淀粉粒大小"], "ID": ["TO:0002655"], "Concept": ["淀粉粒的大小尺寸。"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002655"}
+,{"Term": ["淀粉粒形状"], "ID": ["TO:0002656"], "Concept": ["做实验测定淀粉粒的形状"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002656"}
+,{"Term": ["糙米率"], "ID": ["TO:0000144"], "Concept": ["糙米是稻谷脱去外保护皮层稻壳后的颖果，其内保护皮层（果皮、种皮、珠心层）完好。"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000144"}
+,{"Term": ["精米率"], "ID": ["TO:0000222"], "Concept": ["精磨后的精白大米，去掉了糠皮和糊粉层，称为精米。"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000222"}
+,{"Term": ["种子活力（种子生活力）"], "ID": ["TO:0000345"], "Concept": [], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000345"}
+,{"Term": ["低温发芽力"], "ID": ["TO:0000483"], "Concept": ["衡量低温环境下种子的发芽能力"], "Parenterm": ["耐寒性", "种子品质", "种子发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000483"}
+,{"Term": ["种皮颜色"], "ID": ["TO:0000190"], "Concept": ["The color of the seed coat"], "Parenterm": ["种子品质", "种子颜色", "种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000190"}
+,{"Term": ["种子成熟度"], "ID": ["TO:0002661"], "Concept": ["该性状由籽粒充实度、籽粒硬度、颖壳颜色、籽粒水分等性状组成。"], "Parenterm": ["种子发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002661"}
+,{"Term": ["单胚无芽"], "ID": ["TO:0000195"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状", "植物胚形态解剖学特征", "胚发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000195"}
+,{"Term": ["籽粒大小"], "ID": ["TO:0000397"], "Concept": ["不带果皮的脱壳糙米的大小。"], "Parenterm": ["果实大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000397"}
+,{"Term": ["无胚"], "ID": ["TO:0000189"], "Concept": ["在发育的种子中，胚缺失了。"], "Parenterm": ["植物胚形态解剖学特征", "胚发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000189"}
+,{"Term": ["根端分生组织发育"], "ID": ["TO:0002692"], "Concept": ["An assay to determine the variation in the root meristem development."], "Parenterm": ["分生组织发育性状", "根发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002692"}
+,{"Term": ["大孢子母细胞发育性状"], "ID": ["TO:0000724"], "Concept": ["Traits associated with observing effects on the megasporocyte development."], "Parenterm": ["孢子母细胞发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000724"}
+,{"Term": ["维管组织形态解剖学性状"], "ID": ["TO:0000470"], "Concept": ["维管组织或其一部分在形态结构上发生改变"], "Parenterm": ["植物组织一部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000470"}
+,{"Term": ["无根"], "ID": ["TO:0000198"], "Concept": ["植株或幼苗缺失根"], "Parenterm": ["根形态解剖学性状", "根发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000198"}
+,{"Term": ["细胞伸长性状"], "ID": ["TO:0002687"], "Concept": ["An assay to determine the variation in the length of the plant cell due to cell growth and elongation."], "Parenterm": ["细胞生长发育相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002687"}
+,{"Term": ["分生组织发育性状（）"], "ID": ["TO:0006016"], "Concept": ["An assay to determine the variation in the meristematic tissue development."], "Parenterm": ["组织发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006016"}
+,{"Term": ["果实大小（谷粒大小）"], "ID": ["TO:0002625"], "Concept": ["果实大小变化相关"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002625"}
+,{"Term": ["穗发芽（胎萌）"], "ID": ["TO:0000619"], "Concept": ["种子从母本植株分离前就萌发的现象，这种发芽现象出现在种子休眠前。"], "Parenterm": ["脱落酸敏感性", "赤霉素(GA)敏感性", "胚发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000619"}
+,{"Term": ["杂种二代败育"], "ID": ["TO:0000046"], "Concept": [], "Parenterm": ["杂交不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000046"}
+,{"Term": ["基本营养生长期（BVP）"], "ID": ["TO:0000461"], "Concept": [], "Parenterm": ["营养生长期"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000461"}
+,{"Term": ["杂种F1不亲和性"], "ID": ["TO:0000042"], "Concept": [], "Parenterm": ["杂交不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000042"}
+,{"Term": ["维管束数目"], "ID": ["TO:0000472"], "Concept": ["Number of vascular bundles present in a plant part."], "Parenterm": ["维管束发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000472"}
+,{"Term": ["雄性不育类型"], "ID": ["TO:0000106"], "Concept": ["Represents the different types of male sterility found in plants"], "Parenterm": ["雄性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000106"}
+,{"Term": ["花粉败育"], "ID": ["TO:0000053"], "Concept": ["Observed under a microscope at magnification 10x10 after staining with 1% iodine potassium iodide (IKI) solution. Samples for pollen are collected from anthers and fixed in 70% alcohol. two-three anth"], "Parenterm": ["雄性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000053"}
+,{"Term": ["胚囊败育（EBSABR）"], "ID": ["TO:0000416"], "Concept": ["Abortion of the embryosac leading to female sterility."], "Parenterm": ["雌性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000416"}
+,{"Term": ["配子体自交不亲和性"], "ID": ["TO:0000049"], "Concept": ["花粉在柱头上发芽后可侵入柱头，并能在花柱组织中延伸一段，此后就受到抑制。花粉管与雌性因素的抑制关系发生在单倍体配子体（即卵细胞与精细胞）之间。常见于豆科、茄科和禾本科的一些植物。这种抑制关系的发生可以在花柱组织内，也可以在花粉管与胚囊组织之间，有的甚至是花粉管释放的精子已达胚囊内，但仍不能与卵细胞结合。"], "Parenterm": ["自交不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000049"}
+,{"Term": ["孢子体自交不亲和性"], "ID": ["TO:0000047"], "Concept": ["花粉落在柱头上不能正常发芽，或发芽后在柱头乳突细胞上缠绕而无法侵入柱头。由于这种不亲和关系发生在花粉管与柱头乳突细胞的孢子体之间，花粉的行为决定于二倍体亲本的基因型，因而称为孢子体型自交不亲和性，多见于十字花科和菊科植物。"], "Parenterm": ["自交不亲和性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000047"}
+,{"Term": ["茎生长发育性状（）"], "ID": ["TO:0006551"], "Concept": [], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006551"}
+,{"Term": ["茎的伸长"], "ID": ["TO:0006036"], "Concept": ["茎秆的伸长"], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006036"}
+,{"Term": ["茎衰老"], "ID": ["TO:0020085"], "Concept": ["茎秆的衰老程度"], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020085"}
+,{"Term": ["地上部生长率"], "ID": ["TO:0000368"], "Concept": [], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000368"}
+,{"Term": ["叶生长发育性状"], "ID": ["TO:0000655"], "Concept": ["Traits associated with observing effects on the development of the leaf and its parts."], "Parenterm": ["地上部发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000655"}
+,{"Term": ["果实形态解剖学性状（谷粒形态解剖学性状）"], "ID": ["TO:0002629"], "Concept": ["植物果实，如谷粒、柑桔、豆荚、干果等的形态解剖学性状。"], "Parenterm": ["多组织植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002629"}
+,{"Term": ["磷含量"], "ID": ["TO:0001024"], "Concept": [], "Parenterm": ["锰离子浓度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001024"}
+,{"Term": ["每穗粒数"], "ID": ["TO:0002759"], "Concept": [], "Parenterm": ["籽粒产量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002759"}
+,{"Term": ["籽粒产量"], "ID": ["TO:0000396"], "Concept": [], "Parenterm": ["果实产量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000396"}
+,{"Term": ["生育期"], "ID": ["TO:0000469"], "Concept": ["从播种到种子成熟所需要的天数"], "Parenterm": ["种子发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000469"}
+,{"Term": ["果实产量"], "ID": ["TO:0000871"], "Concept": ["果实的产量"], "Parenterm": ["地上部生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000871"}
+,{"Term": ["地上部分生组织发育"], "ID": ["TO:0002638"], "Concept": ["地上部分生组织发育"], "Parenterm": ["地上部发育性状", "分生组织发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002638"}
+,{"Term": ["小穗形态解剖学性状"], "ID": ["TO:0000657"], "Concept": ["小穗或小穗一部分在结构和形态上的改变。"], "Parenterm": ["生殖枝形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000657"}
+,{"Term": ["硝酸盐含量"], "ID": ["TO:0020094"], "Concept": [], "Parenterm": ["含氮量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020094"}
+,{"Term": ["地上部钾含量"], "ID": ["TO:0020003"], "Concept": ["植物地上部分钾离子含量。"], "Parenterm": ["钾含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020003"}
+,{"Term": ["地上部钠含量"], "ID": ["TO:0020004"], "Concept": ["植物地上部钠离子的含量。"], "Parenterm": ["钠含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020004"}
+,{"Term": ["蒸煮酿制品质"], "ID": ["TO:0000667"], "Concept": ["籽粒或制品的品质性状，是评价食用品质的主要指标之一。"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000667"}
+,{"Term": ["胚乳品质"], "ID": ["TO:0000587"], "Concept": ["胚乳相关的性状，如结构、组成和大小等等。"], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000587"}
+,{"Term": ["渗出液量"], "ID": ["TO:0001020"], "Concept": ["从植物切割部分收集的液体渗出物的量。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001020"}
+,{"Term": ["氮循环（保氮）"], "ID": ["TO:0000506"], "Concept": ["它是对光合产物接收后减少净铵产量的一种措施。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000506"}
+,{"Term": ["膨压"], "ID": ["TO:0000701"], "Concept": ["细胞内的压力，由水吸收到液泡中和原生质吸收水引起。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000701"}
+,{"Term": ["相对小穗数"], "ID": ["TO:0001033"], "Concept": ["胁迫下小穗的数量与生长在正常环境下的小穗数量的比率。"], "Parenterm": ["小穗数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001033"}
+,{"Term": ["种子大小（谷粒大小）"], "ID": ["TO:0000391"], "Concept": ["种子长和宽决定的大小"], "Parenterm": ["种子形态解剖学性状", "种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000391"}
+,{"Term": ["木质素生物合成特性"], "ID": ["TO:0000733"], "Concept": ["与植物或植物部分木质素生物合成有关的性状。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000733"}
+,{"Term": ["呼吸速率"], "ID": ["TO:0001026"], "Concept": ["单位时间内植物代谢损失的碳总量，通过测定玻璃罩中植物叶片上二氧化碳浓度的增加来测量。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001026"}
+,{"Term": ["细胞膜稳定性"], "ID": ["TO:0000467"], "Concept": ["在温度（热）和缺水应力的影响下细胞膜的稳定性。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000467"}
+,{"Term": ["蒸腾速率"], "ID": ["TO:0001018"], "Concept": ["蒸腾的速率"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001018"}
+,{"Term": ["ω-3脂肪酸含量"], "ID": ["TO:0005004"], "Concept": ["植株或植株器官如种子中ω-3脂肪酸的含量。"], "Parenterm": ["脂肪和油的含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005004"}
+,{"Term": ["油酸含量（oleic oil content）"], "ID": ["TO:0005002"], "Concept": ["植株或植株器官如种子中油酸的含量."], "Parenterm": ["脂肪和油的含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005002"}
+,{"Term": ["种子成分性状"], "ID": ["TO:0000488"], "Concept": [], "Parenterm": ["种子品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000488"}
+,{"Term": ["减数分裂周期（）"], "ID": ["TO:0000729"], "Concept": ["The traits associated with various developmental landmarks and processes of cell division during either the meiotic cell cycle."], "Parenterm": ["细胞分裂周期"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000729"}
+,{"Term": ["木质素单体含量（）"], "ID": ["TO:0000732"], "Concept": [], "Parenterm": ["木质素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000732"}
+,{"Term": ["糖含量"], "ID": ["TO:0000333"], "Concept": ["Amount of sugar present in the plant or the plant part."], "Parenterm": ["碳水化合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000333"}
+,{"Term": ["黄酮类化合物含量"], "ID": ["TO:0000290"], "Concept": ["植物中黄酮类化合物的含量。"], "Parenterm": ["植物化学复合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000290"}
+,{"Term": ["色氨酸含量"], "ID": ["TO:0002674"], "Concept": ["Amino acid tryptophan content in a plant or plant part."], "Parenterm": ["氨基酸含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002674"}
+,{"Term": ["转化酶活性（）"], "ID": ["TO:0000311"], "Concept": ["acid invertase, alkaline invertase, beta-D-fructofuranoside fructohydrolase, beta-fructofuranosidase activity, beta-fructosidase, beta-h-fructosidase, fructosylinvertase, glucosucrase, INVACT, invertin, maxinvert L 1000, saccharase, sucrase "], "Parenterm": ["酶活性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000311"}
+,{"Term": ["ADP-葡萄糖焦磷酸化酶活性"], "ID": ["TO:0000284"], "Concept": ["Catalysis of the reaction: ATP + alpha-D-glucose 1-phosphate = diphosphate + ADP-glucose."], "Parenterm": ["酶活性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000284"}
+,{"Term": ["油菜素内酯含量"], "ID": ["TO:0002676"], "Concept": ["Measures the brassinosteroid content in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002676"}
+,{"Term": ["细胞分裂素含量"], "ID": ["TO:0002660"], "Concept": ["Measures the cytokinin content in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002660"}
+,{"Term": ["雌性不育恢复（FEMRF）"], "ID": ["TO:0000498"], "Concept": ["Describes the extent of female fertility restoration in terms of percent seed set"], "Parenterm": ["育性恢复"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000498"}
+,{"Term": ["雄性不育恢复"], "ID": ["TO:0000308"], "Concept": ["Describes the extent of fertile pollen percentage. Also refers to male sterility-measure (extent of sterility)"], "Parenterm": ["育性恢复"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000308"}
+,{"Term": ["茉莉酸含量"], "ID": ["TO:0002668"], "Concept": ["Measures the jasmonic acid content in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002668"}
+,{"Term": ["脱落酸含量"], "ID": ["TO:0002667"], "Concept": ["Measures the abscisic acid content in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002667"}
+,{"Term": ["脱落酸浓度"], "ID": ["TO:0000478"], "Concept": ["Measures the growth hormone concentration in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000478"}
+,{"Term": ["幼苗生长势（幼苗活力）"], "ID": ["TO:0000280"], "Concept": [], "Parenterm": ["营养生长势"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000280"}
+,{"Term": ["赤霉素含量"], "ID": ["TO:0002675"], "Concept": ["Measures the gibberellic acid content in a plant or plant part."], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002675"}
+,{"Term": ["核酮糖-1,5-二磷酸羧化酶含量"], "ID": ["TO:0000319"], "Concept": ["Amount of Rubisco enzyme or protein present in a given plant or the plant part."], "Parenterm": ["蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000319"}
+,{"Term": ["脯氨酸含量"], "ID": ["TO:0006002"], "Concept": ["Amino acid proline content in a plant or plant part."], "Parenterm": ["氨基酸含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006002"}
+,{"Term": ["可溶性总蛋白比（Soluble protein to total protein content ratio）"], "ID": ["TO:0000610"], "Concept": ["可溶性蛋白含量跟总蛋白含量的比值，是衡量蛋白水解程度的指标。"], "Parenterm": ["可溶性蛋白含量", "蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000610"}
+,{"Term": ["绿苗产率"], "ID": ["TO:0000632"], "Concept": [], "Parenterm": ["体外再生能力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000632"}
+,{"Term": ["绿苗分化频率"], "ID": ["TO:0000631"], "Concept": [], "Parenterm": ["体外再生能力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000631"}
+,{"Term": ["线虫类伤害抗性"], "ID": ["TO:0000384"], "Concept": ["植物对线虫类侵染的抗性"], "Parenterm": ["动物伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000384"}
+,{"Term": ["相对株高"], "ID": ["TO:0001034"], "Concept": [], "Parenterm": ["株高"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001034"}
+,{"Term": ["抗虫性（insect resistance）"], "ID": ["TO:0000261"], "Concept": ["An assay to determine the resistance exhibited by a plant or a group of plants (population) in response to insect infestation as compared to the susceptible and/or the reference plants of the same spe"], "Parenterm": ["动物伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000261"}
+,{"Term": ["生长素含量"], "ID": ["TO:0002672"], "Concept": [], "Parenterm": ["生长激素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002672"}
+,{"Term": ["结实率"], "ID": ["TO:0000455"], "Concept": [], "Parenterm": ["种子数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000455"}
+,{"Term": ["胚乳贮藏蛋白含量（）"], "ID": ["TO:0002653"], "Concept": ["Assay for the amount of seed storage protein present in the endosperm."], "Parenterm": ["蛋白成分相关性状", "蛋白质含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002653"}
+,{"Term": ["植物鲜重"], "ID": ["TO:0000442"], "Concept": ["植物的鲜重"], "Parenterm": ["地上部生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000442"}
+,{"Term": ["植株干重（total dry mass）"], "ID": ["TO:0000352"], "Concept": ["整株的干物质重"], "Parenterm": ["地上部生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000352"}
+,{"Term": ["秸秆产量"], "ID": ["TO:0000388"], "Concept": ["秸秆饲草的产量"], "Parenterm": ["地上部生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000388"}
+,{"Term": ["相对生物量"], "ID": ["TO:0000143"], "Concept": [], "Parenterm": ["地上部生物量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000143"}
+,{"Term": ["茎秆长度"], "ID": ["TO:0000576"], "Concept": ["Measure from soil surface to highest point on stem."], "Parenterm": ["茎秆形态解剖学特征", "茎生长发育性状", "株高"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000576"}
+,{"Term": ["植物茎轴形态解剖学特征"], "ID": ["TO:0000738"], "Concept": ["植物的根和茎等的形态解剖学特征"], "Parenterm": ["植物器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000738"}
+,{"Term": ["植物器官形态解剖学特征"], "ID": ["TO:0000736"], "Concept": ["植物器官的形态解剖学特征"], "Parenterm": ["多组织植物构造"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000736"}
+,{"Term": ["根形态解剖学性状"], "ID": ["TO:0000043"], "Concept": [], "Parenterm": ["植物茎轴形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000043"}
+,{"Term": ["千粒重"], "ID": ["TO:0000592"], "Concept": ["一千颗谷粒的重量"], "Parenterm": ["粒重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000592"}
+,{"Term": ["叶形态解剖学特征"], "ID": ["TO:0000748"], "Concept": ["叶形态解剖学性状"], "Parenterm": ["叶性器官形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000748"}
+,{"Term": ["叶性器官形态解剖学性状"], "ID": ["TO:0000747"], "Concept": [], "Parenterm": ["植物器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000747"}
+,{"Term": ["地下根占总根比"], "ID": ["TO:0000510"], "Concept": ["植物的穿透到地下的根数与总根数之比。"], "Parenterm": ["根系穿透指数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000510"}
+,{"Term": ["百粒重"], "ID": ["TO:0000591"], "Concept": [], "Parenterm": ["粒重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000591"}
+,{"Term": ["感温性"], "ID": ["TO:0009266"], "Concept": ["A change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a temperature stimulus."], "Parenterm": ["对温度的应激反应"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0009266"}
+,{"Term": ["光敏感性"], "ID": ["TO:0000075"], "Concept": [], "Parenterm": ["辐照敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000075"}
+,{"Term": ["耐寒性（耐冷性;抗寒性）"], "ID": ["TO:0000303"], "Concept": ["植物暴露于低温环境下表现出来的对寒冷的耐受性，表型上常有叶色等的变化。"], "Parenterm": ["对温度的应激反应"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000303"}
+,{"Term": ["深水胁迫"], "ID": ["TO:0000103"], "Concept": ["植物长期生长在积水环境下的敏感性，与田间突遭洪水不同。"], "Parenterm": ["水胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000103"}
+,{"Term": ["茎秆形态解剖学特征"], "ID": ["TO:0000361"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000361"}
+,{"Term": ["地上部轴茎形态解剖学性状"], "ID": ["TO:0000739"], "Concept": ["A plant axis anatomy and morphology trait (TO:0000738) which is associated with a shoot axis (PO:0025029)."], "Parenterm": ["植物茎轴形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000739"}
+,{"Term": ["耐热性（高温抗性）"], "ID": ["TO:0000259"], "Concept": ["tolerance to warm temperatures if plant is exposed to above than permissive temperature limits. Observe differences in vigor along with subtle changes in leaf color. The optimum time to make observations would be the seedling, tillering (sensu Poaceae), flowering and mature stages. Mainly scored in terms of spikelet fertility in grasses."], "Parenterm": ["对温度的应激反应"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000259"}
+,{"Term": ["相对含水量"], "ID": ["TO:0000136"], "Concept": ["中午（中午12点）测定叶片相对含水量。"], "Parenterm": ["叶水势"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000136"}
+,{"Term": ["湿度相关性状"], "ID": ["TO:0000441"], "Concept": [], "Parenterm": ["水胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000441"}
+,{"Term": ["剑形毛状体"], "ID": ["TO:0000917"], "Concept": [], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000917"}
+,{"Term": ["多毛毛状体"], "ID": ["TO:0000918"], "Concept": [], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000918"}
+,{"Term": ["种皮形态解剖学性状"], "ID": ["TO:0000838"], "Concept": [], "Parenterm": ["植物组织一部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000838"}
+,{"Term": ["外果皮形态解剖学性状"], "ID": ["TO:0000906"], "Concept": [], "Parenterm": ["植物组织一部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000906"}
+,{"Term": ["基本器官部分形态解剖学性状"], "ID": ["TO:0000754"], "Concept": [], "Parenterm": ["多组织植物基本组成部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000754"}
+,{"Term": ["茎粗"], "ID": ["TO:0000339"], "Concept": ["茎杆的粗细程度"], "Parenterm": ["茎秆强度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000339"}
+,{"Term": ["胚乳形态解剖学性状"], "ID": ["TO:0000575"], "Concept": [], "Parenterm": ["植物组织一部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000575"}
+,{"Term": ["细胞器形态解剖学性状"], "ID": ["TO:0002713"], "Concept": [], "Parenterm": ["植物细胞形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002713"}
+,{"Term": ["脆性节"], "ID": ["TO:0000061"], "Concept": [], "Parenterm": ["茎秆强度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000061"}
+,{"Term": ["花发育性状（）"], "ID": ["TO:0000622"], "Concept": ["Traits associated with observing effects on the development of the flower and its parts."], "Parenterm": ["穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000622"}
+,{"Term": ["脆茎"], "ID": ["TO:0000200"], "Concept": ["草本植物茎杆的脆性"], "Parenterm": ["茎秆强度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000200"}
+,{"Term": ["花序苞片发育特征"], "ID": ["TO:0006027"], "Concept": ["观察对花苞发育影响有关的性状。"], "Parenterm": ["穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006027"}
+,{"Term": ["植物细胞形状"], "ID": ["TO:0002682"], "Concept": [], "Parenterm": ["植物细胞形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002682"}
+,{"Term": ["胚形"], "ID": ["TO:0000193"], "Concept": ["植物胚的形状。"], "Parenterm": ["植物胚形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000193"}
+,{"Term": ["外果皮质地"], "ID": ["TO:0002624"], "Concept": [], "Parenterm": ["果皮质地"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002624"}
+,{"Term": ["种子落粒性（grain shattering）"], "ID": ["TO:0000473"], "Concept": ["Measurement of extent of grain shattering, which depends on development of abscission zone."], "Parenterm": ["果实成熟特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000473"}
+,{"Term": ["穗分化天数（days to inflorescence emergence）"], "ID": ["TO:0001021"], "Concept": ["Number of days required for the emergence of inflorescence to become visible on the plant."], "Parenterm": ["穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001021"}
+,{"Term": ["种子颜色"], "ID": ["TO:0000486"], "Concept": ["The color of the seed or the fruit caryopsis in cereals, which has not been dehulled."], "Parenterm": ["种子形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000486"}
+,{"Term": ["种子形状"], "ID": ["TO:0000484"], "Concept": ["种子的形状。"], "Parenterm": ["种子形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000484"}
+,{"Term": ["种子质地"], "ID": ["TO:0020016"], "Concept": [], "Parenterm": ["种子形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020016"}
+,{"Term": ["浆片异位发育"], "ID": ["TO:0006024"], "Concept": ["草本植物中浆片的异位发育"], "Parenterm": ["浆片发育性状", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006024"}
+,{"Term": ["穗型"], "ID": ["TO:0000089"], "Concept": ["根据分枝的模式、主要分枝的角度和小穗密度分类。"], "Parenterm": ["穗形态解剖学性状", "穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000089"}
+,{"Term": ["小穗分生组织确定"], "ID": ["TO:0006030"], "Concept": [], "Parenterm": ["穗发育性状", "地上部分生组织发育", "分生组织确定"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006030"}
+,{"Term": ["种子重量"], "ID": ["TO:0000181"], "Concept": ["A seed anatomy and morphology trait (TO:0000184) which is associated with the weight of a seed (PO:0009010)."], "Parenterm": ["种子形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000181"}
+,{"Term": ["浆片数目"], "ID": ["TO:0006010"], "Concept": ["研究中，每个禾本科植物花或小花上的浆片平均数量。"], "Parenterm": ["浆片形态解剖学特征", "浆片发育性状", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006010"}
+,{"Term": ["芽形态解剖学特征"], "ID": ["TO:0000789"], "Concept": ["芽的形态解剖学特征"], "Parenterm": ["地上部形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000789"}
+,{"Term": ["种子寿命"], "ID": ["TO:0000435"], "Concept": [], "Parenterm": ["种子活力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000435"}
+,{"Term": ["无穗"], "ID": ["TO:0002678"], "Concept": ["因为发育过程中断或者环境因子，植株上没有结出穗子。"], "Parenterm": ["穗数", "花序缺失"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002678"}
+,{"Term": ["花序颜色"], "ID": ["TO:0000581"], "Concept": [], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000581"}
+,{"Term": ["内稃数目"], "ID": ["TO:0000209"], "Concept": ["草本植物花或小花上的内稃数目"], "Parenterm": ["内外稃形态解剖学性状", "花的苞片数目", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000209"}
+,{"Term": ["外稃数目"], "ID": ["TO:0000208"], "Concept": ["草本植物小花上外稃的数目。"], "Parenterm": ["内外稃形态解剖学性状", "花的苞片数目", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000208"}
+,{"Term": ["雄蕊数目"], "ID": ["TO:0000225"], "Concept": ["花上雄蕊的数目"], "Parenterm": ["雄蕊形态解剖学性状", "花器官发育特征", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000225"}
+,{"Term": ["花序大小"], "ID": ["TO:0006031"], "Concept": [], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006031"}
+,{"Term": ["雌蕊数目"], "ID": ["TO:0002659"], "Concept": ["雌蕊群中雌蕊的数目"], "Parenterm": ["雌蕊形态解剖学性状", "花器官发育特征", "生殖同源异形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002659"}
+,{"Term": ["花序形状"], "ID": ["TO:0000268"], "Concept": [], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000268"}
+,{"Term": ["种子休眠性"], "ID": ["TO:0000253"], "Concept": ["有生命力的种子由于内在原因，在适宜的环境条件下仍不能萌发的现象。"], "Parenterm": ["脱落酸敏感性", "赤霉素(GA)敏感性", "种子活力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000253"}
+,{"Term": ["籽粒长宽比"], "ID": ["TO:0002731"], "Concept": ["脱壳籽粒长度跟宽度的比值"], "Parenterm": ["籽粒大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002731"}
+,{"Term": ["大孢子母细胞数目"], "ID": ["TO:0000725"], "Concept": ["A count of the number of megasporocyte that is done to determine any increase or decrease in number."], "Parenterm": ["大孢子母细胞发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000725"}
+,{"Term": ["韧皮部颜色"], "ID": ["TO:0002709"], "Concept": ["韧皮部的颜色。"], "Parenterm": ["维管组织形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002709"}
+,{"Term": ["花序类型"], "ID": ["TO:0000267"], "Concept": [], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000267"}
+,{"Term": ["粒长"], "ID": ["TO:0000734"], "Concept": ["带壳带皮的果粒长度"], "Parenterm": ["籽粒大小", "果实长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000734"}
+,{"Term": ["粒宽"], "ID": ["TO:0000402"], "Concept": ["脱壳带皮籽粒的宽度"], "Parenterm": ["籽粒大小", "果实宽度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000402"}
+,{"Term": ["侧根缺失（）"], "ID": ["TO:X000198"], "Concept": [], "Parenterm": ["无根"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:X000198"}
+,{"Term": ["赤霉素(GA)敏感性（GA3 response, GASN, GB response, gibberellic acid response, Gibberellin response）"], "ID": ["TO:0000166"], "Concept": ["Sensitivity to the gibberellic acid content in the growth medium or on external application."], "Parenterm": ["植物激素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000166"}
+,{"Term": ["分生组织确定"], "ID": ["TO:0006017"], "Concept": [], "Parenterm": ["分生组织发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006017"}
+,{"Term": ["脱落酸敏感性"], "ID": ["TO:0000615"], "Concept": ["脱落酸应用后的反应。"], "Parenterm": ["植物激素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000615"}
+,{"Term": ["种子根缺失（absence of seminal roots.）"], "ID": ["TO:0000714"], "Concept": ["absence of seminal roots."], "Parenterm": ["无根"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000714"}
+,{"Term": ["木质部颜色"], "ID": ["TO:0002708"], "Concept": ["木质部的颜色。"], "Parenterm": ["维管组织形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002708"}
+,{"Term": ["胚根缺失（）"], "ID": ["TO:0000234"], "Concept": ["The embryo of the germinating seed does not produce roots."], "Parenterm": ["无根"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000234"}
+,{"Term": ["花粉败育类型（）"], "ID": ["TO:0000218"], "Concept": ["Observations are made on staining behavior and number of nuclei in most of the pollens"], "Parenterm": ["花粉败育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000218"}
+,{"Term": ["冠状根缺失"], "ID": ["TO:0000230"], "Concept": ["Absence of crown roots in the plant."], "Parenterm": ["无根"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000230"}
+,{"Term": ["胞质雄性不育（）"], "ID": ["TO:0000580"], "Concept": [], "Parenterm": ["雄性不育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000580"}
+,{"Term": ["雄性核不育（）"], "ID": ["TO:0000199"], "Concept": [], "Parenterm": ["雄性不育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000199"}
+,{"Term": ["茎秆数"], "ID": ["TO:0000027"], "Concept": ["Actual count of the total number of tillers after full heading, Specify if per plant, hill or area"], "Parenterm": ["茎生长发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000027"}
+,{"Term": ["穗分枝"], "ID": ["TO:0000050"], "Concept": [], "Parenterm": ["花序形态解剖学特征", "穗发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000050"}
+,{"Term": ["小维管束数目"], "ID": ["TO:0000558"], "Concept": [], "Parenterm": ["维管束数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000558"}
+,{"Term": ["花形态解剖学性状（）"], "ID": ["TO:0000499"], "Concept": ["Traits associated with changes in the anatomy or structure of the flower and its parts."], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000499"}
+,{"Term": ["大维管束数目（TO:0000539）"], "ID": ["TO:0000539"], "Concept": ["Number of the large sized vascular bundles."], "Parenterm": ["维管束数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000539"}
+,{"Term": ["穗形态解剖学性状（穗部形态）"], "ID": ["TO:0000847"], "Concept": ["穗子的形态解剖学性状"], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000847"}
+,{"Term": ["叶片衰老"], "ID": ["TO:0000249"], "Concept": [], "Parenterm": ["叶生长发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000249"}
+,{"Term": ["雄穗花序形态解剖学性状"], "ID": ["TO:0000788"], "Concept": ["雄穗花序(PO:0020126)的形态解剖学性状"], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000788"}
+,{"Term": ["单株粒数"], "ID": ["TO:0000440"], "Concept": ["单株上的谷粒数"], "Parenterm": ["每穗粒数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000440"}
+,{"Term": ["茎秆粗度（）"], "ID": ["TO:0000976"], "Concept": [], "Parenterm": ["茎秆形态解剖学特征", "茎生长发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000976"}
+,{"Term": ["小穗宽度"], "ID": ["TO:0000564"], "Concept": ["小穗的宽度"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000564"}
+,{"Term": ["小穗长宽比"], "ID": ["TO:0000563"], "Concept": ["小穗的长宽比"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000563"}
+,{"Term": ["茎端分生组织发育"], "ID": ["TO:0006020"], "Concept": ["An assay to associate observing effects on the development of shoot apical (SAM) meristem."], "Parenterm": ["地上部分生组织发育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006020"}
+,{"Term": ["小穗长度"], "ID": ["TO:0002768"], "Concept": ["小穗的长度"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002768"}
+,{"Term": ["小穗重"], "ID": ["TO:0000501"], "Concept": ["小穗的重量"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000501"}
+,{"Term": ["小穗育性"], "ID": ["TO:0000180"], "Concept": ["小穗育性"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000180"}
+,{"Term": ["小穗密度"], "ID": ["TO:0000625"], "Concept": ["穗上小穗的着生密度"], "Parenterm": ["小穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000625"}
+,{"Term": ["结实率"], "ID": ["TO:0000448"], "Concept": ["通过计算一个穗子或一个单株中结实小穗的百分比来确定。"], "Parenterm": ["每穗粒数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000448"}
+,{"Term": ["每穗实粒数（）"], "ID": ["TO:0000447"], "Concept": ["Determined by counting the number of spikelets filled with grain in one Inflorescence (panicle). "], "Parenterm": ["每穗粒数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000447"}
+,{"Term": ["面粉颗粒度"], "ID": ["TO:0002646"], "Concept": ["磨粒后面粉颗粒的大小，尺寸取决于研磨的长度和类型。"], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002646"}
+,{"Term": ["消减值"], "ID": ["TO:0000412"], "Concept": ["通过从冷糊状物粘度中减去峰值粘度来确定。"], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000412"}
+,{"Term": ["面粉色泽（米粉色泽）"], "ID": ["TO:0000651"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000651"}
+,{"Term": ["麦芽柔软度"], "ID": ["TO:0002645"], "Concept": ["软麦芽的百分比，从50克大麦的微麦芽中测量。"], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002645"}
+,{"Term": ["脆性胚乳"], "ID": ["TO:0000713"], "Concept": ["脆性胚乳相关的形态解剖性状。"], "Parenterm": ["胚乳品质", "胚乳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000713"}
+,{"Term": ["种子厚度"], "ID": ["TO:0000304"], "Concept": ["成熟种子的厚度"], "Parenterm": ["种子大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000304"}
+,{"Term": ["α-亚麻酸的含量"], "ID": ["TO:0005005"], "Concept": ["植株或植株器官如种子中α-亚麻酸的含量。"], "Parenterm": ["ω-3脂肪酸含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005005"}
+,{"Term": ["种子宽度"], "ID": ["TO:0000149"], "Concept": ["成熟种子的宽度"], "Parenterm": ["种子大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000149"}
+,{"Term": ["种子长度"], "ID": ["TO:0000146"], "Concept": ["种子的长度"], "Parenterm": ["种子大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000146"}
+,{"Term": ["粉质胚乳"], "ID": ["TO:0000104"], "Concept": ["不透明的软质胚乳"], "Parenterm": ["胚乳品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000104"}
+,{"Term": ["半透明胚乳"], "ID": ["TO:0000105"], "Concept": ["没有光泽的胚乳，直链淀粉含量低。"], "Parenterm": ["胚乳品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000105"}
+,{"Term": ["双萜类植保素含量"], "ID": ["TO:0002669"], "Concept": [], "Parenterm": ["黄酮类化合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002669"}
+,{"Term": ["花青素含量"], "ID": ["TO:0000071"], "Concept": [], "Parenterm": ["黄酮类化合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000071"}
+,{"Term": ["粘性胚乳"], "ID": ["TO:0000098"], "Concept": ["不透明的硬质胚乳，不含直链淀粉或直链淀粉含量很低。"], "Parenterm": ["胚乳品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000098"}
+,{"Term": ["单糖含量"], "ID": ["TO:0006006"], "Concept": ["Amount of monosaccharide present in the plant or plant part."], "Parenterm": ["糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006006"}
+,{"Term": ["垩白胚乳"], "ID": ["TO:0000266"], "Concept": ["垩白是指稻米胚乳中组织疏松而形成的白色不透明的部分，包括心白、腹白和背白，是胚乳淀粉及蛋白质颗粒积累不够密实所致，加工时容易破碎。垩白是衡量稻米品质的重要性状之一，直接影响稻米的外观品质和商品流通，影响其加工品质。"], "Parenterm": ["胚乳品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000266"}
+,{"Term": ["含水量相关性状"], "ID": ["TO:0000228"], "Concept": [], "Parenterm": ["种子成分性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000228"}
+,{"Term": ["可溶性糖总含量"], "ID": ["TO:0000340"], "Concept": ["Total amount of soluble sugar present in the plant or plant part."], "Parenterm": ["糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000340"}
+,{"Term": ["多聚糖含量"], "ID": ["TO:0006007"], "Concept": ["Amount of polysaccharide present in the plant or plant part."], "Parenterm": ["糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006007"}
+,{"Term": ["脂肪和油组分相关性状"], "ID": ["TO:0000491"], "Concept": [], "Parenterm": ["种子成分性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000491"}
+,{"Term": ["蛋白成分相关性状"], "ID": ["TO:0000490"], "Concept": [], "Parenterm": ["种子成分性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000490"}
+,{"Term": ["碳水化合物组分相关性状"], "ID": ["TO:0000489"], "Concept": [], "Parenterm": ["种子成分性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000489"}
+,{"Term": ["回复值"], "ID": ["TO:0000376"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000376"}
+,{"Term": ["崩解值"], "ID": ["TO:0000374"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000374"}
+,{"Term": ["峰值粘度（最高粘度）"], "ID": ["TO:0000409"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000409"}
+,{"Term": ["热浆粘度"], "ID": ["TO:0000408"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000408"}
+,{"Term": ["冷胶粘度"], "ID": ["TO:0000379"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000379"}
+,{"Term": ["膨化倍数"], "ID": ["TO:0000635"], "Concept": [], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000635"}
+,{"Term": ["米粒延伸性"], "ID": ["TO:0000377"], "Concept": ["米粒蒸煮时长度的延伸程度。"], "Parenterm": ["蒸煮酿制品质"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000377"}
+,{"Term": ["水稻茎线虫抗性"], "ID": ["TO:0000121"], "Concept": [], "Parenterm": ["线虫类伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000121"}
+,{"Term": ["水稻二化螟抗性（）"], "ID": ["TO:0000454"], "Concept": ["causal agents: Chilo suppressalis (striped), C. polychrysus (dark headed), Rupela albinella (South American white), Scirpophaga incertulas (yellow), S innotata (white), Sesamia inferens (pink), Maliarpha separatella (african whiteheads), Diopsis macrophthalma (stalked-eyed fly), and several other species."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000454"}
+,{"Term": ["可溶性蛋白含量"], "ID": ["TO:0000325"], "Concept": ["植株或其一部分中可溶性蛋白的含量"], "Parenterm": ["蛋白成分相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000325"}
+,{"Term": ["稻水蝇抗性（RWM, RWMRS）"], "ID": ["TO:0000332"], "Concept": ["Causal agent: Hydrellia philippina. Symptoms: Leaf margin feeding causes conspicuous damage and sometimes stunting of plants."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000332"}
+,{"Term": ["稻瘿蚊抗性（）"], "ID": ["TO:0000423"], "Concept": ["Causal agent: Orseolia oryzae. For the field test to be valid more than 60% of the plants should be affected with not less than 15% silver shoot in the susceptible check. Similarly, 60% of the plants in susceptible check should show silver shoots under green house tests. If any of the test entry in the field evaluation exhibits damage less than 10%, on plant basis, rate it on scale-0, since such a damage could be due to other reasons. Monitor at growth stage 2-5."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000423"}
+,{"Term": ["切根虫抗性（CUWRRS）"], "ID": ["TO:0000317"], "Concept": ["Causal agent: Spodoptera litura"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000317"}
+,{"Term": ["支链淀粉含量（）"], "ID": ["TO:0000097"], "Concept": ["Amount of amylopectin present in the plant or plant part."], "Parenterm": ["蒸煮酿制品质", "碳水化合物组分相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000097"}
+,{"Term": ["直链淀粉含量"], "ID": ["TO:0000196"], "Concept": ["Amount of amylose present in the plant or plant part.It is a water-dispersible component of starch and is a polymer of alpha(1,4)-linked glucose units."], "Parenterm": ["蒸煮酿制品质", "碳水化合物组分相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000196"}
+,{"Term": ["胶稠度（GelC, GELCON）"], "ID": ["TO:0000211"], "Concept": ["Scored by gel consistency type in mm."], "Parenterm": ["蒸煮酿制品质", "碳水化合物组分相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000211"}
+,{"Term": ["稻飞虱抗性（DELRS, RDel）"], "ID": ["TO:0000246"], "Concept": ["Causal agent: Sogatodes oryzicola (Tagosodes orizicolus). Symptoms: partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting and death of plants. Infested areas i"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000246"}
+,{"Term": ["粘虫抗性（AWRRS）"], "ID": ["TO:0000273"], "Concept": ["Causal agent: Pseudaletia unipuncta, Spodoptera mauritia and Spodoptera praefica. The swarming caterpillars cause severe damage to rice plants in nursery beds."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000273"}
+,{"Term": ["糊化温度（GELTZTMP）"], "ID": ["TO:0000462"], "Concept": ["Is an indication of gelatinization temperature. Observed by placing six milled-grains/kernels in 10ml 1.7% KOH in a shallow container and arrange them so that they do not touch. Let them stand for 23hrs at 30C temperature and score for spreading. Measure for Alkali digestion is inversely proportional to the gelatinization temperature, e.g. if alkali digestion is low, the gelatinization temperature is high."], "Parenterm": ["蒸煮酿制品质", "碳水化合物组分相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000462"}
+,{"Term": ["黑尾叶蝉抗性（GLFHRS, GLH）"], "ID": ["TO:0000212"], "Concept": ["Causal agent: Nephotettix spp.(Nephotettix virescens and Nephotettix cincticeps). It is the major vector for transmitting the tungro virus disease. Symptoms: Partial to pronounced yellowing and increa"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000212"}
+,{"Term": ["稻蝽抗性"], "ID": ["TO:0000220"], "Concept": ["Causal agent: Leptocorisa oratorius. Monitored at growth stage 7-9, resistance is a measure of damaged grains per panicle."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000220"}
+,{"Term": ["根鲜重"], "ID": ["TO:0000578"], "Concept": ["植株根系的鲜重（干重+水分）。"], "Parenterm": ["根重量", "植物鲜重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000578"}
+,{"Term": ["稻纵卷叶螟抗性（LFRRS）"], "ID": ["TO:0000192"], "Concept": ["Causal agent: Cnaphalocrocis medinalis"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000192"}
+,{"Term": ["铁甲虫抗性（HISPRS）"], "ID": ["TO:0000191"], "Concept": ["causal agent: Dicladispa armigera"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000191"}
+,{"Term": ["根重量"], "ID": ["TO:0000279"], "Concept": ["测量根总量的一个参数，分为干重和鲜重两种。"], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000279"}
+,{"Term": ["叶温"], "ID": ["TO:0000504"], "Concept": ["叶片表面的温度。"], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000504"}
+,{"Term": ["根形状"], "ID": ["TO:0002710"], "Concept": ["植物根系统的形状。"], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002710"}
+,{"Term": ["花瓣形态解剖学特征"], "ID": ["TO:0000863"], "Concept": ["花盛开时，花瓣的形态解剖学特征。"], "Parenterm": ["叶性器官形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000863"}
+,{"Term": ["节间长度（）"], "ID": ["TO:0000145"], "Concept": ["Measurement of length of the internode."], "Parenterm": ["茎秆长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000145"}
+,{"Term": ["茎秆颜色（）"], "ID": ["TO:0000056"], "Concept": ["Variation in color of the stem."], "Parenterm": ["茎秆形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000056"}
+,{"Term": ["根表皮细胞长度"], "ID": ["TO:0000459"], "Concept": ["根表皮细胞的长度"], "Parenterm": ["根形态解剖学性状", "植物细胞长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000459"}
+,{"Term": ["基生分蘖高度"], "ID": ["TO:0001005"], "Concept": [], "Parenterm": ["茎秆长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001005"}
+,{"Term": ["茎秆节数"], "ID": ["TO:0000634"], "Concept": ["植株茎杆上的节数。"], "Parenterm": ["茎秆形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000634"}
+,{"Term": ["生长习性"], "ID": ["TO:0002756"], "Concept": ["根据主枝/茎对土壤或生长介质表面的倾斜角度估算"], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002756"}
+,{"Term": ["分蘖角度（TIAG）"], "ID": ["TO:0000567"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000567"}
+,{"Term": ["分枝形态解剖学特征"], "ID": ["TO:0000740"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000740"}
+,{"Term": ["花梗形态解剖学特征"], "ID": ["TO:0000776"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000776"}
+,{"Term": ["花序形态解剖学特征"], "ID": ["TO:0000782"], "Concept": [], "Parenterm": ["地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000782"}
+,{"Term": ["淹水条件下地上部相对伸长"], "ID": ["TO:0000517"], "Concept": ["在没有淹没的情况下，相对于参考物，在淹没条件下茎秆伸长。"], "Parenterm": ["耐涝性", "地上部轴茎形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000517"}
+,{"Term": ["根状地下茎形态解剖学性状（）"], "ID": ["TO:0000549"], "Concept": ["Traits associated with changes in the anatomy or structure of the rhizomatic stem and its parts."], "Parenterm": ["茎秆形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000549"}
+,{"Term": ["光强度敏感性（光强度响应）"], "ID": ["TO:0000460"], "Concept": [], "Parenterm": ["光敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000460"}
+,{"Term": ["茎杆角度"], "ID": ["TO:0000577"], "Concept": ["与茎杆角度相关的茎形态解剖学性状。"], "Parenterm": ["茎秆形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000577"}
+,{"Term": ["种皮模式"], "ID": ["TO:0000904"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000904"}
+,{"Term": ["种皮质地"], "ID": ["TO:0000903"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000903"}
+,{"Term": ["种皮色素流出"], "ID": ["TO:0000902"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000902"}
+,{"Term": ["芒形态解剖学性状"], "ID": ["TO:0002718"], "Concept": [], "Parenterm": ["基本器官部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002718"}
+,{"Term": ["种皮比例"], "ID": ["TO:0000890"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000890"}
+,{"Term": ["巨胚"], "ID": ["TO:0000113"], "Concept": ["大尺寸的植物胚。"], "Parenterm": ["胚形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000113"}
+,{"Term": ["球形胚"], "ID": ["TO:0000194"], "Concept": ["球形植物胚。"], "Parenterm": ["胚形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000194"}
+,{"Term": ["胚乳颜色"], "ID": ["TO:0000487"], "Concept": ["胚乳的颜色。"], "Parenterm": ["胚乳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000487"}
+,{"Term": ["花序苞片数目"], "ID": ["TO:0006028"], "Concept": ["花序上苞片的数目"], "Parenterm": ["花序苞片发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006028"}
+,{"Term": ["质体发育性状（质体结构性状）"], "ID": ["TO:0002714"], "Concept": [], "Parenterm": ["细胞器形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002714"}
+,{"Term": ["开花前花败育"], "ID": ["TO:0000671"], "Concept": [], "Parenterm": ["花发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000671"}
+,{"Term": ["抽穗期"], "ID": ["TO:0000137"], "Concept": [], "Parenterm": ["穗分化天数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000137"}
+,{"Term": ["浆片发育性状"], "ID": ["TO:0006023"], "Concept": [], "Parenterm": ["花器官发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006023"}
+,{"Term": ["开花时间"], "ID": ["TO:0002616"], "Concept": ["与开花时间相关的性状."], "Parenterm": ["花发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002616"}
+,{"Term": ["花器官发育特征"], "ID": ["TO:0006022"], "Concept": [], "Parenterm": ["花发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006022"}
+,{"Term": ["地上节间形态解剖学性状"], "ID": ["TO:0000755"], "Concept": ["地上部节间相关的形态解剖学性状"], "Parenterm": ["基本器官部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000755"}
+,{"Term": ["叶鞘形态解剖学性状"], "ID": ["TO:0000835"], "Concept": ["与叶鞘相关的形态解剖学性状。"], "Parenterm": ["基本器官部分形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000835"}
+,{"Term": ["种皮硬度"], "ID": ["TO:0000889"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000889"}
+,{"Term": ["小花数目"], "ID": ["TO:0000670"], "Concept": ["花序或花序分枝上着生的小花数目。"], "Parenterm": ["小花形态解剖学性状", "花发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000670"}
+,{"Term": ["种皮光泽"], "ID": ["TO:0000888"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000888"}
+,{"Term": ["光周期敏感性（感光性）"], "ID": ["TO:0000229"], "Concept": [], "Parenterm": ["光敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000229"}
+,{"Term": ["腋芽形态解剖学特征"], "ID": ["TO:0000790"], "Concept": ["腋芽的形态解剖学特征"], "Parenterm": ["芽形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000790"}
+,{"Term": ["种皮长度"], "ID": ["TO:0000880"], "Concept": [], "Parenterm": ["种皮形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000880"}
+,{"Term": ["光质敏感性（response to light quality）"], "ID": ["TO:0000265"], "Concept": ["Response shown by the plant in the presence of a light quality stress.\r\nLight quality is defined by the wavelength of the light type."], "Parenterm": ["光敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000265"}
+,{"Term": ["向光性（趋光性）"], "ID": ["TO:0002650"], "Concept": ["植物或植物的一部分在光的方向上的运动。"], "Parenterm": ["光敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002650"}
+,{"Term": ["苞叶形态解剖学性状"], "ID": ["TO:0000815"], "Concept": ["苞叶形态解剖学性状"], "Parenterm": ["叶性器官形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000815"}
+,{"Term": ["孢子叶形态解剖学性状"], "ID": ["TO:0000866"], "Concept": ["如题."], "Parenterm": ["叶性器官形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000866"}
+,{"Term": ["雄蕊形态解剖学性状"], "ID": ["TO:0000215"], "Concept": ["雄蕊形态或结构的改变."], "Parenterm": ["小孢子叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000215"}
+,{"Term": ["大孢子叶解剖与形态特征"], "ID": ["TO:0000867"], "Concept": [], "Parenterm": ["孢子叶形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000867"}
+,{"Term": ["心皮形态解剖学特征"], "ID": ["TO:0006012"], "Concept": [], "Parenterm": ["大孢子叶解剖与形态特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006012"}
+,{"Term": ["雌蕊形态解剖学性状"], "ID": ["TO:0000223"], "Concept": ["与雌蕊及其部分的解剖结构或结构变化有关的性状。"], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000223"}
+,{"Term": ["花序周长"], "ID": ["TO:0000680"], "Concept": [], "Parenterm": ["花序大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000680"}
+,{"Term": ["穗数（单株有效穗数）"], "ID": ["TO:0000152"], "Concept": ["某一研究中，单个植株上的平均穗数。"], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000152"}
+,{"Term": ["花序直径"], "ID": ["TO:0000679"], "Concept": [], "Parenterm": ["花序大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000679"}
+,{"Term": ["花序长度"], "ID": ["TO:0000271"], "Concept": [], "Parenterm": ["花序大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000271"}
+,{"Term": ["花序宽度"], "ID": ["TO:0000637"], "Concept": [], "Parenterm": ["花序大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000637"}
+,{"Term": ["小孢子叶形态解剖学特征"], "ID": ["TO:0000868"], "Concept": ["小孢子叶形态解剖学特征"], "Parenterm": ["孢子叶形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000868"}
+,{"Term": ["内外稃形态解剖学性状"], "ID": ["TO:0000079"], "Concept": [], "Parenterm": ["花序苞叶形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000079"}
+,{"Term": ["花的苞片数目"], "ID": ["TO:0006026"], "Concept": ["一朵花中苞叶的数目。"], "Parenterm": ["花苞发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006026"}
+,{"Term": ["花序苞叶形态解剖学性状"], "ID": ["TO:0000816"], "Concept": ["花序苞叶形态解剖学性状"], "Parenterm": ["苞叶形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000816"}
+,{"Term": ["糙米长"], "ID": ["TO:0000041"], "Concept": ["稻谷经脱壳后，在抛光前糙米的长度。"], "Parenterm": ["粒长"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000041"}
+,{"Term": ["花苞发育特征"], "ID": ["TO:0006025"], "Concept": [], "Parenterm": ["花器官发育特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006025"}
+,{"Term": ["叶序"], "ID": ["TO:0006014"], "Concept": ["叶在茎上排列的方式称为叶序。"], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006014"}
+,{"Term": ["叶姿态"], "ID": ["TO:0000824"], "Concept": ["叶的姿态"], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000824"}
+,{"Term": ["叶面积"], "ID": ["TO:0000540"], "Concept": [], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000540"}
+,{"Term": ["卷叶"], "ID": ["TO:0000085"], "Concept": ["叶在受到干旱、水和温度等胁迫后表现出来的特征。"], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000085"}
+,{"Term": ["花序分枝颜色"], "ID": ["TO:0011004"], "Concept": [], "Parenterm": ["花序分枝形态解剖学性状", "花序颜色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011004"}
+,{"Term": ["叶毛"], "ID": ["TO:0002722"], "Concept": [], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002722"}
+,{"Term": ["成熟期败育（）"], "ID": ["TO:0000353"], "Concept": ["花粉败育发生在小孢子发育的最后阶段，形态上与可育相似。"], "Parenterm": ["花粉败育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000353"}
+,{"Term": ["三核期败育（）"], "ID": ["TO:0000026"], "Concept": ["小孢子发育的三核期发生败育，粉形态为染败。"], "Parenterm": ["花粉败育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000026"}
+,{"Term": ["光温敏雄性核不育（）"], "ID": ["TO:0000217"], "Concept": [], "Parenterm": ["雄性核不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000217"}
+,{"Term": ["温敏雄性核不育（）"], "ID": ["TO:0000067"], "Concept": [], "Parenterm": ["雄性核不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000067"}
+,{"Term": ["花颜色"], "ID": ["TO:0000537"], "Concept": ["The color of the flower or the grass floret."], "Parenterm": ["花形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000537"}
+,{"Term": ["花被形态解剖学性状（perianth related trait）"], "ID": ["TO:0000275"], "Concept": ["Traits associated with changes in the anatomy or structure of the perianth and its parts."], "Parenterm": ["花形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000275"}
+,{"Term": ["二次枝梗"], "ID": ["TO:0000142"], "Concept": [], "Parenterm": ["穗分枝"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000142"}
+,{"Term": ["一次枝梗"], "ID": ["TO:0000052"], "Concept": [], "Parenterm": ["穗分枝"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000052"}
+,{"Term": ["脱粒性"], "ID": ["TO:0000406"], "Concept": [], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000406"}
+,{"Term": ["穗基部至最低枝梗"], "ID": ["TO:0000545"], "Concept": ["从穗基部到第一个一次枝梗之间的长度"], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000545"}
+,{"Term": ["穗枝梗排列"], "ID": ["TO:0002751"], "Concept": ["穗部枝梗的排列"], "Parenterm": ["穗分枝"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002751"}
+,{"Term": ["穗密度和形状"], "ID": ["TO:0020001"], "Concept": ["与穗的紧凑性和形状相关的形态解剖学性状。"], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020001"}
+,{"Term": ["穗大小"], "ID": ["TO:0006032"], "Concept": [], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006032"}
+,{"Term": ["穗色"], "ID": ["TO:0000201"], "Concept": [], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000201"}
+,{"Term": ["穗形"], "ID": ["TO:0000262"], "Concept": [], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000262"}
+,{"Term": ["光敏雄性核不育"], "ID": ["TO:0000009"], "Concept": [], "Parenterm": ["雄性核不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000009"}
+,{"Term": ["穗长"], "ID": ["TO:0000040"], "Concept": ["从穗子基部到顶端的真实长度，一般用厘米表示。"], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000040"}
+,{"Term": ["穗伸出度（包穗）"], "ID": ["TO:0000165"], "Concept": ["衡量稻穗从旗叶叶鞘中伸出的长度。"], "Parenterm": ["穗形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000165"}
+,{"Term": ["花数目（）"], "ID": ["TO:0002736"], "Concept": ["The number of flowers."], "Parenterm": ["花形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002736"}
+,{"Term": ["小花形态解剖学性状"], "ID": ["TO:0000274"], "Concept": [], "Parenterm": ["花形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000274"}
+,{"Term": ["单核期败育（）"], "ID": ["TO:0000060"], "Concept": ["Abortion at uni-nucleate stage of microspore development"], "Parenterm": ["花粉败育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000060"}
+,{"Term": ["叶形状（LFSHP）"], "ID": ["TO:0000492"], "Concept": ["Variation in shapes and forms of leaf."], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000492"}
+,{"Term": ["双核期败育（）"], "ID": ["TO:0000415"], "Concept": ["Abortion at bi-nucleate stage of microspore development"], "Parenterm": ["花粉败育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000415"}
+,{"Term": ["无花粉"], "ID": ["TO:0000245"], "Concept": ["no pollen development"], "Parenterm": ["花粉败育类型"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000245"}
+,{"Term": ["叶坏死"], "ID": ["TO:0000652"], "Concept": ["Leaf surface area affected by abiotic stresses like insecticides and cold temperature as evidenced by chlorotic and/or necrotic tissue."], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000652"}
+,{"Term": ["野败型胞质雄性不育（）"], "ID": ["TO:0000110"], "Concept": ["Abortion of microspore development at uni-nucleate stage"], "Parenterm": ["单核期败育", "胞质雄性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000110"}
+,{"Term": ["红莲型胞质雄性不育（）"], "ID": ["TO:0000350"], "Concept": ["Abortion of microspore development at bi-nucleate stage"], "Parenterm": ["双核期败育", "胞质雄性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000350"}
+,{"Term": ["叶色"], "ID": ["TO:0000326"], "Concept": ["叶的颜色"], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000326"}
+,{"Term": ["叶组成性状"], "ID": ["TO:0000493"], "Concept": ["A leaf anatomy and morphology trait (TO:0000748) which is associated with the composition of a leaf (PO:0025034)."], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000493"}
+,{"Term": ["维管叶形态解剖学性状"], "ID": ["TO:0000419"], "Concept": ["A leaf anatomy and morphology trait (TO:0000748) which is associated with a vascular leaf (PO:0009025)."], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000419"}
+,{"Term": ["叶大小（）"], "ID": ["TO:0002637"], "Concept": [], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002637"}
+,{"Term": ["叶片形态解剖学性状"], "ID": ["TO:0000829"], "Concept": [], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000829"}
+,{"Term": ["叶数"], "ID": ["TO:0000241"], "Concept": [], "Parenterm": ["叶形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000241"}
+,{"Term": ["BT型胞质雄性不育（）"], "ID": ["TO:0000169"], "Concept": ["Abortion of microspore development at trinucleate stage"], "Parenterm": ["三核期败育", "胞质雄性不育"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000169"}
+,{"Term": ["稻壳酮B含量"], "ID": ["TO:0002671"], "Concept": ["衡量植物或植物一部分中稻壳酮B的含量。"], "Parenterm": ["双萜类植保素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002671"}
+,{"Term": ["蔗糖含量"], "ID": ["TO:0000328"], "Concept": ["The amount of sucrose present in the plant or the plant part."], "Parenterm": ["多聚糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000328"}
+,{"Term": ["己醣含量"], "ID": ["TO:0000307"], "Concept": ["Amount of hexose present in the plant or plant part."], "Parenterm": ["单糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000307"}
+,{"Term": ["稻壳酮A含量"], "ID": ["TO:0002670"], "Concept": ["衡量植物或植物一部分中稻壳酮A的含量。"], "Parenterm": ["双萜类植保素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002670"}
+,{"Term": ["根粗度"], "ID": ["TO:0000306"], "Concept": ["The average thickness of roots."], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000306"}
+,{"Term": ["种子长宽比（籽粒长宽比）"], "ID": ["TO:0000411"], "Concept": ["种子或带壳颖果的长宽比。"], "Parenterm": ["种子长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000411"}
+,{"Term": ["根冠比（）"], "ID": ["TO:0000278"], "Concept": ["The ratio determined from the parameters evaluated for root length and the shoot length in a study."], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000278"}
+,{"Term": ["谷物含水量"], "ID": ["TO:0000057"], "Concept": ["谷物籽粒中的水分含量"], "Parenterm": ["含水量相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000057"}
+,{"Term": ["根质量密度"], "ID": ["TO:0000115"], "Concept": ["Determined as the dry mass of roots per unit soil volume at a given soil section."], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000115"}
+,{"Term": ["根长度"], "ID": ["TO:0000227"], "Concept": ["一项研究中，植物根系的平均长度。"], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000227"}
+,{"Term": ["根毛长度"], "ID": ["TO:0002665"], "Concept": ["植物根上根毛的平均长度。"], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002665"}
+,{"Term": ["总淀粉含量"], "ID": ["TO:0000696"], "Concept": ["植物或其部分组织中淀粉的含量。"], "Parenterm": ["碳水化合物组分相关性状", "多聚糖含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000696"}
+,{"Term": ["根颜色"], "ID": ["TO:0000065"], "Concept": ["根的颜色"], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000065"}
+,{"Term": ["根数量（RTNB, tnr）"], "ID": ["TO:0000084"], "Concept": ["Average sum of number of roots in a plant derived per experiment."], "Parenterm": ["根形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000084"}
+,{"Term": ["胚芽鞘形态解剖学特征"], "ID": ["TO:0000753"], "Concept": ["胚芽鞘的形态解剖学特征"], "Parenterm": ["植物器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000753"}
+,{"Term": ["花器官形态解剖学特征"], "ID": ["TO:0000862"], "Concept": ["花器官的形态解剖学特征"], "Parenterm": ["植物器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000862"}
+,{"Term": ["浆片形态解剖学特征"], "ID": ["TO:0006009"], "Concept": ["浆片形态解剖学特征"], "Parenterm": ["植物器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006009"}
+,{"Term": ["稻蓟马抗性（THRIPSRS）"], "ID": ["TO:0000154"], "Concept": ["Causal agent: Stenchaetothrips biformis. monitored at growth stage 2-3"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000154"}
+,{"Term": ["直纹稻弄蝶抗性（SKIPRS）"], "ID": ["TO:0000151"], "Concept": ["causal agent: Pelopidas mathias (Fabricius) and Parnara guttata"], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000151"}
+,{"Term": ["椿象抗性"], "ID": ["TO:0000022"], "Concept": ["Causal agent: Oebalus pugnax."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000022"}
+,{"Term": ["电光叶蝉抗性（ZLFHRS）"], "ID": ["TO:0000082"], "Concept": ["Causal agent: Recilia dorsalis (Motschulsky)."], "Parenterm": ["抗虫性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000082"}
+,{"Term": ["球蛋白含量"], "ID": ["TO:0000710"], "Concept": ["实验测定球蛋白的含量"], "Parenterm": ["可溶性蛋白含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000710"}
+,{"Term": ["白蛋白含量（albumen content）"], "ID": ["TO:0002680"], "Concept": ["实验检测白蛋白的含量"], "Parenterm": ["可溶性蛋白含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002680"}
+,{"Term": ["果色"], "ID": ["TO:0002617"], "Concept": ["果实或果实一部分的色泽"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002617"}
+,{"Term": ["果实宽度"], "ID": ["TO:0002627"], "Concept": ["果实(PO:0009001)宽度的变化"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002627"}
+,{"Term": ["果型"], "ID": ["TO:0000850"], "Concept": [], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000850"}
+,{"Term": ["白背飞虱抗性（WBPH,WBPHRS）"], "ID": ["TO:0000205"], "Concept": ["Causal agent: Sagotella furcifera. Symptoms: partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting and death of plants. Infested areas in the field may be patchy. (similar to the symptoms of whitebacked planthopper). "], "Parenterm": ["稻飞虱抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000205"}
+,{"Term": ["褐飞虱抗性（BPH, BPHRS）"], "ID": ["TO:0000424"], "Concept": ["Causal agent: Nilparvata lugens (also Nilaparvata lugens). Symptoms: partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting to death of plants. Infested areas in the field may be patchy."], "Parenterm": ["稻飞虱抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000424"}
+,{"Term": ["果实体积"], "ID": ["TO:0002742"], "Concept": ["与果实(PO:0002629)体积相关的形态解剖学性状(TO:0002629)"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002742"}
+,{"Term": ["果实长度"], "ID": ["TO:0002626"], "Concept": ["果实(PO:0009001)长度变异相关的形态解剖学性状"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002626"}
+,{"Term": ["间隔期"], "ID": ["TO:0000735"], "Concept": ["茎端分生组织上两片叶发生的时间间隔。"], "Parenterm": ["叶生长发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000735"}
+,{"Term": ["植物细胞大小"], "ID": ["TO:0002684"], "Concept": [], "Parenterm": ["植物细胞形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002684"}
+,{"Term": ["果实形状"], "ID": ["TO:0002628"], "Concept": ["与果实(PO:0009001)形状相关的形态解剖学性状(TO:0002629)"], "Parenterm": ["果实形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002628"}
+,{"Term": ["深根重比"], "ID": ["TO:0001011"], "Concept": ["一株植物的深根干重与整个根系干重的比值。"], "Parenterm": ["根重量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001011"}
+,{"Term": ["根干重"], "ID": ["TO:0000078"], "Concept": ["通过烘干，测得植株根系的干重。"], "Parenterm": ["根重量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000078"}
+,{"Term": ["花瓣大小"], "ID": ["TO:0002603"], "Concept": ["花盛开时，花瓣的大小。"], "Parenterm": ["花瓣形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002603"}
+,{"Term": ["花瓣数目"], "ID": ["TO:0006039"], "Concept": ["花盛开时，花瓣的数目。"], "Parenterm": ["花瓣形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006039"}
+,{"Term": ["棒形毛状体"], "ID": ["TO:0000916"], "Concept": ["棒状毛状体"], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000916"}
+,{"Term": ["植物细胞长度"], "ID": ["TO:0020107"], "Concept": [], "Parenterm": ["植物细胞大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020107"}
+,{"Term": ["环状毛状体"], "ID": ["TO:0000913"], "Concept": [], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000913"}
+,{"Term": ["毛状体贴伏"], "ID": ["TO:0000912"], "Concept": ["毛状体贴近植物结构的表面。"], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000912"}
+,{"Term": ["纤细毛状体"], "ID": ["TO:0000915"], "Concept": [], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000915"}
+,{"Term": ["灰白毛状体"], "ID": ["TO:0000914"], "Concept": ["毛状体变得灰白"], "Parenterm": ["毛状体形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000914"}
+,{"Term": ["节间颜色（）"], "ID": ["TO:0000426"], "Concept": ["Color of the stem internode."], "Parenterm": ["茎秆颜色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000426"}
+,{"Term": ["节颜色（）"], "ID": ["TO:0000059"], "Concept": [], "Parenterm": ["茎秆颜色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000059"}
+,{"Term": ["花瓣颜色"], "ID": ["TO:0000572"], "Concept": ["花盛开时，花瓣的颜色。"], "Parenterm": ["花瓣形态解剖学特征", "花颜色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000572"}
+,{"Term": ["碱消化"], "ID": ["TO:0000134"], "Concept": ["Is an indirect measure of gelatinization temperature. Observed by placing six milled-rice kernels in 10ml 1.7% KOH in a shallow container and arrange them so that they do not touch. Let them stand for 23hrs at 30degC temperature and score for spreading. Measure for Alkali digestion is inversely proportional to the gelatinization temperature, e.g. if alkali digestion is low, the gelatinization temperature is high."], "Parenterm": ["糊化温度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000134"}
+,{"Term": ["耐涝性"], "ID": ["TO:0000114"], "Concept": [], "Parenterm": ["水胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000114"}
+,{"Term": ["块茎形态解剖学特征"], "ID": ["TO:0000741"], "Concept": [], "Parenterm": ["分枝形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000741"}
+,{"Term": ["花序分枝形态解剖学性状"], "ID": ["TO:0000784"], "Concept": [], "Parenterm": ["花序形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000784"}
+,{"Term": ["干旱相关性状"], "ID": ["TO:0000394"], "Concept": ["植物对土壤中持续的水分亏缺或生长基质含水量不足的敏感性，缺水对植株有害。"], "Parenterm": ["水胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000394"}
+,{"Term": ["渗透反应敏感性"], "ID": ["TO:0000095"], "Concept": ["在生长基质中对渗透剂敏感。"], "Parenterm": ["水胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000095"}
+,{"Term": ["茎角度"], "ID": ["TO:0000427"], "Concept": ["草本植物中，茎杆相对于地面的倾角。"], "Parenterm": ["茎杆角度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000427"}
+,{"Term": ["鸟伤害抗性（BD）"], "ID": ["TO:0000260"], "Concept": ["Since there is no genetic resistance to birds, the damage can be quantified as it does represent resistance. Factors as flag leaf angle or panicle exsertion are important."], "Parenterm": ["动物伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000260"}
+,{"Term": ["叶绿体发育（叶绿体结构）"], "ID": ["TO:0002715"], "Concept": [], "Parenterm": ["质体发育性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002715"}
+,{"Term": ["颖片数"], "ID": ["TO:0006029"], "Concept": ["草本植物穗上着生的颖壳数"], "Parenterm": ["花序苞片数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006029"}
+,{"Term": ["芒宽"], "ID": ["TO:0011007"], "Concept": [], "Parenterm": ["芒形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011007"}
+,{"Term": ["有芒"], "ID": ["TO:0002734"], "Concept": [], "Parenterm": ["芒形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002734"}
+,{"Term": ["十粒重"], "ID": ["TO:0002747"], "Concept": ["10颗谷粒的重量"], "Parenterm": ["粒重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002747"}
+,{"Term": ["芒密度"], "ID": ["TO:0002719"], "Concept": [], "Parenterm": ["芒形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002719"}
+,{"Term": ["鼠伤害抗性（RD）"], "ID": ["TO:0000117"], "Concept": ["since there is no genetic resistance to rats, the damage can be quantified as it does not represent resistance."], "Parenterm": ["动物伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000117"}
+,{"Term": ["除草剂敏感性（除草剂抗性,herbicide tolerance, weedicide tolerance）"], "ID": ["TO:0000058"], "Concept": [], "Parenterm": ["化学胁迫敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000058"}
+,{"Term": ["芒色"], "ID": ["TO:0000141"], "Concept": [], "Parenterm": ["芒形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000141"}
+,{"Term": ["粒重与穗重比"], "ID": ["TO:0020002"], "Concept": ["如题"], "Parenterm": ["粒重", "穗重"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020002"}
+,{"Term": ["芒长"], "ID": ["TO:0000072"], "Concept": [], "Parenterm": ["芒形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000072"}
+,{"Term": ["叶鞘直径"], "ID": ["TO:0000642"], "Concept": ["叶鞘直径的真实度量值。"], "Parenterm": ["叶鞘形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000642"}
+,{"Term": ["叶鞘宽"], "ID": ["TO:0002721"], "Concept": ["叶鞘最宽部分的真实宽度。"], "Parenterm": ["叶鞘形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002721"}
+,{"Term": ["叶鞘长"], "ID": ["TO:0002689"], "Concept": ["叶鞘的真实长度。"], "Parenterm": ["叶鞘形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002689"}
+,{"Term": ["叶鞘色"], "ID": ["TO:0002724"], "Concept": ["叶鞘的颜色。"], "Parenterm": ["叶鞘形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002724"}
+,{"Term": ["茎节间形态解剖学性状"], "ID": ["TO:0000756"], "Concept": [], "Parenterm": ["地上节间形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000756"}
+,{"Term": ["农药敏感性"], "ID": ["TO:0002649"], "Concept": ["植物对喷施农药产生的抗性"], "Parenterm": ["化学胁迫敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002649"}
+,{"Term": ["腋芽突出"], "ID": ["TO:0000794"], "Concept": ["腋芽突出"], "Parenterm": ["腋芽形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000794"}
+,{"Term": ["紫外线敏感性"], "ID": ["TO:0000160"], "Concept": ["植株对紫外光照射胁迫的应答特性。"], "Parenterm": ["光质敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000160"}
+,{"Term": ["腋芽形状"], "ID": ["TO:0000793"], "Concept": ["腋芽的形状"], "Parenterm": ["腋芽形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000793"}
+,{"Term": ["根向光性"], "ID": ["TO:0002652"], "Concept": ["植物根部向光的方向运动。"], "Parenterm": ["向光性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002652"}
+,{"Term": ["红光敏感性（）"], "ID": ["TO:0000158"], "Concept": ["Sensitivity to the red light content in the growth environment."], "Parenterm": ["光质敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000158"}
+,{"Term": ["每穗小花数"], "ID": ["TO:0002738"], "Concept": ["草本植物花序上的平均小花数"], "Parenterm": ["小花数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002738"}
+,{"Term": ["地上部向光性（胚芽鞘向光性）"], "ID": ["TO:0002651"], "Concept": ["植物茎部朝光的方向运动的部分。"], "Parenterm": ["向光性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002651"}
+,{"Term": ["腋芽数量"], "ID": ["TO:0000792"], "Concept": ["腋芽的数量"], "Parenterm": ["腋芽形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000792"}
+,{"Term": ["雌蕊长度"], "ID": ["TO:0002610"], "Concept": ["花盛开时，雌蕊的长度。"], "Parenterm": ["雌蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002610"}
+,{"Term": ["柱头外露率"], "ID": ["TO:0000044"], "Concept": ["通过计算某一天完成开花并外露柱头的花或小花的数量，以柱头外露百分比表示的性状。"], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000044"}
+,{"Term": ["柱头颜色"], "ID": ["TO:0000185"], "Concept": ["花盛开时柱头的颜色。"], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000185"}
+,{"Term": ["雌蕊大小"], "ID": ["TO:0002602"], "Concept": ["花盛开时，雌蕊的大小。"], "Parenterm": ["雌蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002602"}
+,{"Term": ["穗周长"], "ID": ["TO:0000681"], "Concept": [], "Parenterm": ["花序周长"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000681"}
+,{"Term": ["花柱颜色（花丝颜色）"], "ID": ["TO:0000676"], "Concept": ["花盛开时花柱的颜色。"], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000676"}
+,{"Term": ["相对穗数"], "ID": ["TO:0001032"], "Concept": [], "Parenterm": ["穗数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001032"}
+,{"Term": ["裂颖（开颖角度）"], "ID": ["TO:0000474"], "Concept": ["每个小花上颖片的开角，测量的是平均值。"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000474"}
+,{"Term": ["稃尖毛长"], "ID": ["TO:0000532"], "Concept": [], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000532"}
+,{"Term": ["护颖宽度"], "ID": ["TO:0002727"], "Concept": ["护颖最宽处的宽度"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002727"}
+,{"Term": ["稃尖颜色"], "ID": ["TO:0000140"], "Concept": ["稃尖的颜色"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000140"}
+,{"Term": ["护颖长度"], "ID": ["TO:0000240"], "Concept": ["两个护颖中每一个的长度"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000240"}
+,{"Term": ["颖壳形态解剖学性状"], "ID": ["TO:0000869"], "Concept": [], "Parenterm": ["花序苞叶形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000869"}
+,{"Term": ["护颖颜色"], "ID": ["TO:0000400"], "Concept": [], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000400"}
+,{"Term": ["外稃形状"], "ID": ["TO:0000614"], "Concept": ["小花外稃的形态解剖学相关性状"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000614"}
+,{"Term": ["外稃长度"], "ID": ["TO:0000650"], "Concept": [], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000650"}
+,{"Term": ["护颖形状"], "ID": ["TO:0002726"], "Concept": ["不育花外稃的形状"], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002726"}
+,{"Term": ["叶倾角（叶角度）"], "ID": ["TO:0000206"], "Concept": ["相对于茎秆测量的叶片尖端的张开角度。"], "Parenterm": ["叶姿态"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000206"}
+,{"Term": ["叶毛密度"], "ID": ["TO:0006066"], "Concept": [], "Parenterm": ["叶毛"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006066"}
+,{"Term": ["内外稃茸毛"], "ID": ["TO:0000417"], "Concept": [], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000417"}
+,{"Term": ["内外稃颜色（内稃颜色,外稃颜色）"], "ID": ["TO:0000264"], "Concept": [], "Parenterm": ["内外稃形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000264"}
+,{"Term": ["穗宽"], "ID": ["TO:0000638"], "Concept": [], "Parenterm": ["花序宽度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000638"}
+,{"Term": ["心皮形状"], "ID": ["TO:0006037"], "Concept": ["心皮的形状"], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006037"}
+,{"Term": ["穗长"], "ID": ["TO:0000431"], "Concept": [], "Parenterm": ["花序长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000431"}
+,{"Term": ["花药长度"], "ID": ["TO:0000531"], "Concept": ["花药长度的变异."], "Parenterm": ["雄蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000531"}
+,{"Term": ["心皮数目"], "ID": ["TO:0006013"], "Concept": ["Number of carpels in a pistil in the gynoecium."], "Parenterm": ["心皮形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006013"}
+,{"Term": ["花药形状"], "ID": ["TO:0000214"], "Concept": ["相对于正常或参考型，花药形状发生改变。"], "Parenterm": ["雄蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000214"}
+,{"Term": ["被片数目"], "ID": ["TO:0006041"], "Concept": ["Number of the tepals in a flower."], "Parenterm": ["花被形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006041"}
+,{"Term": ["萼片数目"], "ID": ["TO:0006040"], "Concept": ["Number of the sepals in a flower."], "Parenterm": ["花被形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006040"}
+,{"Term": ["萼片大小"], "ID": ["TO:0002604"], "Concept": ["Size of the sepal."], "Parenterm": ["花被形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002604"}
+,{"Term": ["被片颜色"], "ID": ["TO:0000574"], "Concept": ["Color of tepals in a flower."], "Parenterm": ["花被形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000574"}
+,{"Term": ["花药数目"], "ID": ["TO:0000210"], "Concept": [], "Parenterm": ["雄蕊形态解剖学性状", "小花数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000210"}
+,{"Term": ["二次枝梗数"], "ID": ["TO:0000557"], "Concept": [], "Parenterm": ["二次枝梗"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000557"}
+,{"Term": ["一次枝梗排列"], "ID": ["TO:0002753"], "Concept": ["Arrangement of primary branches in an inflorescence."], "Parenterm": ["穗枝梗排列"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002753"}
+,{"Term": ["一次枝梗数"], "ID": ["TO:0000547"], "Concept": [], "Parenterm": ["一次枝梗"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000547"}
+,{"Term": ["花药颜色"], "ID": ["TO:0000187"], "Concept": ["花药颜色变异."], "Parenterm": ["雄蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000187"}
+,{"Term": ["萼片颜色"], "ID": ["TO:0000573"], "Concept": ["Color of sepals in a flower."], "Parenterm": ["花被形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000573"}
+,{"Term": ["小花颜色"], "ID": ["TO:0000536"], "Concept": ["The color of the floret."], "Parenterm": ["小花形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000536"}
+,{"Term": ["雄蕊长度"], "ID": ["TO:0002609"], "Concept": ["与雄蕊长度相关的雄蕊形态解剖学性状."], "Parenterm": ["雄蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002609"}
+,{"Term": ["雄蕊大小"], "ID": ["TO:0002601"], "Concept": ["与雄蕊大小相关的雄蕊形态解剖学性状."], "Parenterm": ["雄蕊形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002601"}
+,{"Term": ["腋芽大小"], "ID": ["TO:0000791"], "Concept": ["腋芽的大小"], "Parenterm": ["腋芽形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000791"}
+,{"Term": ["叶坏死抗性"], "ID": ["TO:0002663"], "Concept": ["Tolerance for leaf necrosis or scorching observed in response to stresses like drought, insecticides and cold temperature as evidenced by less number or chlorotic and/or necrotic tissue."], "Parenterm": ["叶坏死"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002663"}
+,{"Term": ["生长基质敏感性"], "ID": ["TO:0000238"], "Concept": [], "Parenterm": ["化学胁迫敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000238"}
+,{"Term": ["植物激素敏感性"], "ID": ["TO:0000401"], "Concept": [], "Parenterm": ["化学胁迫敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000401"}
+,{"Term": ["抗病性（disease control, disease resistance trait, disease susceptibility, disease tolerance.）"], "ID": ["TO:0000112"], "Concept": ["An assay to determine the resistance exhibited by a plant or a group of plants (population) in response to the disease caused by a pathogen infection as compared to the susceptible and/or the referenc"], "Parenterm": ["微生物伤害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000112"}
+,{"Term": ["氧敏感性"], "ID": ["TO:0000015"], "Concept": [], "Parenterm": ["氧化胁迫"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000015"}
+,{"Term": ["色素含量"], "ID": ["TO:0000494"], "Concept": [], "Parenterm": ["叶组成性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000494"}
+,{"Term": ["每分枝小花数"], "ID": ["TO:0002737"], "Concept": ["草本植物穗上每个分枝上着生的小花数。"], "Parenterm": ["小花数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002737"}
+,{"Term": ["叶倾角"], "ID": ["TO:0002688"], "Concept": ["叶片的弯曲程度，用度数表示。"], "Parenterm": ["叶片形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002688"}
+,{"Term": ["叶长（LFLG, LL）"], "ID": ["TO:0000135"], "Concept": ["Actual measurements, in centimeters of the leaf."], "Parenterm": ["叶大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000135"}
+,{"Term": ["类病斑（斑叶坏死）"], "ID": ["TO:0000070"], "Concept": ["植物在遭受干旱、杀虫剂和低温等胁迫时，叶片出现类似坏死或烧焦的斑点。"], "Parenterm": ["杂色叶", "叶坏死"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000070"}
+,{"Term": ["衰老的叶片数（死亡叶片数）"], "ID": ["TO:0001010"], "Concept": ["单株中衰老或死亡的叶片数。"], "Parenterm": ["叶数"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001010"}
+,{"Term": ["叶宽"], "ID": ["TO:0000370"], "Concept": ["Actual measurements, in centimeters of the widest portion of the leaf blade."], "Parenterm": ["叶大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000370"}
+,{"Term": ["每小穗小花数"], "ID": ["TO:0006033"], "Concept": ["Number of florets in a grass spikelet."], "Parenterm": ["小花数目"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006033"}
+,{"Term": ["葡萄糖含量"], "ID": ["TO:0000300"], "Concept": [], "Parenterm": ["己醣含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000300"}
+,{"Term": ["叶氮含量"], "ID": ["TO:0000543"], "Concept": [], "Parenterm": ["叶组成性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000543"}
+,{"Term": ["滞绿"], "ID": ["TO:0002712"], "Concept": ["在衰老期，植株和光合器官的颜色保持绿色，而不是变黄或变褐。"], "Parenterm": ["叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002712"}
+,{"Term": ["杂色叶（白化叶;条纹叶）"], "ID": ["TO:0000069"], "Concept": ["叶上出现各种点状、条纹状的斑纹。"], "Parenterm": ["叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000069"}
+,{"Term": ["深根冠比（）"], "ID": ["TO:0000092"], "Concept": ["The ratio of deep root root length (for the roots found 30cm below the soil surface) and the shoot length determined in a study."], "Parenterm": ["根冠比"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000092"}
+,{"Term": ["叶枕色"], "ID": ["TO:0000364"], "Concept": ["叶枕的颜色。"], "Parenterm": ["叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000364"}
+,{"Term": ["叶片色"], "ID": ["TO:0000299"], "Concept": ["叶片的颜色。"], "Parenterm": ["叶片形态解剖学性状", "叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000299"}
+,{"Term": ["黄化叶（叶片黄化;褪绿）"], "ID": ["TO:0006060"], "Concept": ["由于叶绿素不足而导致叶子变黄。"], "Parenterm": ["叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006060"}
+,{"Term": ["幼苗高度"], "ID": ["TO:0000019"], "Concept": [], "Parenterm": ["株高"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000019"}
+,{"Term": ["leaf yellowing tolerance"], "ID": ["TO:0002664"], "Concept": ["Tolerance for leaf color yellowing observed in response to stresses like drought, water and temperature. It may precedes leaf drying stage."], "Parenterm": ["叶色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002664"}
+,{"Term": ["土下根长度"], "ID": ["TO:0000508"], "Concept": ["Average maximum length of the root of a plant in a study that have penetrated to a predetermined soil depth."], "Parenterm": ["根长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000508"}
+,{"Term": ["浆片形状"], "ID": ["TO:0006011"], "Concept": ["浆片的形状"], "Parenterm": ["浆片形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006011"}
+,{"Term": ["相对根长度"], "ID": ["TO:0000516"], "Concept": ["与正常条件下相比，某种处理下根的相对长度。"], "Parenterm": ["根长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000516"}
+,{"Term": ["侧根长度"], "ID": ["TO:0001012"], "Concept": ["Average maximum length of the lateral root of a plant in a study."], "Parenterm": ["根长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001012"}
+,{"Term": ["小花数目"], "ID": ["TO:0006038"], "Concept": [], "Parenterm": ["花器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006038"}
+,{"Term": ["浆片类型"], "ID": ["TO:0000857"], "Concept": ["浆片的类型"], "Parenterm": ["浆片形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000857"}
+,{"Term": ["花器官大小"], "ID": ["TO:0002600"], "Concept": ["花器官的大小"], "Parenterm": ["花器官形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002600"}
+,{"Term": ["浆片长度"], "ID": ["TO:0000856"], "Concept": ["浆片的长度"], "Parenterm": ["浆片形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000856"}
+,{"Term": ["胚芽鞘长度"], "ID": ["TO:0001007"], "Concept": ["胚芽鞘的长度"], "Parenterm": ["胚芽鞘形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001007"}
+,{"Term": ["胚芽鞘颜色"], "ID": ["TO:0000244"], "Concept": ["胚芽鞘的颜色"], "Parenterm": ["胚芽鞘形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000244"}
+,{"Term": ["不定根数（冠状根数）"], "ID": ["TO:0001006"], "Concept": ["Average sum of number of adventitious roots in a plant derived per experiment."], "Parenterm": ["根数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001006"}
+,{"Term": ["果小柱颜色"], "ID": ["TO:0002621"], "Concept": [], "Parenterm": ["果色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002621"}
+,{"Term": ["总根数（TRTNB）"], "ID": ["TO:0000640"], "Concept": ["实验中植物各类根的数量之和。"], "Parenterm": ["根数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000640"}
+,{"Term": ["穿透根数（npr, number of penetrating roots, PENRTNB）"], "ID": ["TO:0000083"], "Concept": ["Its the total number of roots penetrating the hard pans of the soil or the number of roots penetrated through the wax-petrolatum layer measured at 50 days after sowing (DAS),"], "Parenterm": ["根数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000083"}
+,{"Term": ["深根数"], "ID": ["TO:0001009"], "Concept": ["A count of number of roots present below a giiven depth from the soil surface."], "Parenterm": ["根数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001009"}
+,{"Term": ["侧根数（）"], "ID": ["TO:0001013"], "Concept": ["Average sum of number of lateral roots in a plant derived per experiment."], "Parenterm": ["根数量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001013"}
+,{"Term": ["果色均一性"], "ID": ["TO:0000909"], "Concept": ["果实色泽是否均匀"], "Parenterm": ["果色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000909"}
+,{"Term": ["干果颜色"], "ID": ["TO:0000901"], "Concept": [], "Parenterm": ["果色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000901"}
+,{"Term": ["果皮颜色（）"], "ID": ["TO:0000707"], "Concept": ["Pericarp is the wall of a fruit, developed from the ovary or carpel wall. Also scored for grain color or color of the dehulled grain in grasses. "], "Parenterm": ["果色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000707"}
+,{"Term": ["粒形"], "ID": ["TO:0002730"], "Concept": ["未脱壳谷粒的形状"], "Parenterm": ["果实形状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002730"}
+,{"Term": ["籽粒加工后颜色"], "ID": ["TO:0000385"], "Concept": ["脱壳加工后，没有果皮的谷物的色泽。"], "Parenterm": ["果色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000385"}
+,{"Term": ["种子根长度"], "ID": ["TO:0000586"], "Concept": ["Length of the seminal root."], "Parenterm": ["根长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000586"}
+,{"Term": ["30-45cm土层根质量密度"], "ID": ["TO:0000119"], "Concept": ["Root mass density 30-45 cm was calculated as the dry mass of roots per unit soil volume at 30-45 cm soil section."], "Parenterm": ["根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000119"}
+,{"Term": ["花瓣长度"], "ID": ["TO:0002605"], "Concept": ["花盛开时，花瓣的长度。"], "Parenterm": ["花瓣大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002605"}
+,{"Term": ["根皮质细胞长度"], "ID": ["TO:0020108"], "Concept": ["根皮质细胞的长度"], "Parenterm": ["植物细胞长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020108"}
+,{"Term": ["花瓣宽度"], "ID": ["TO:0002606"], "Concept": ["花盛开时，花瓣的宽度。"], "Parenterm": ["花瓣大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002606"}
+,{"Term": ["根生物量密度百分率"], "ID": ["TO:0000120"], "Concept": ["Calculated as percent of root mass density over the total root mass density. Both parameters scored at the same depth."], "Parenterm": ["根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000120"}
+,{"Term": ["15-30cm土层根质量密度"], "ID": ["TO:0000118"], "Concept": ["Root mass density 15-30 cm was calculated as the dry mass of roots per unit soil volume at 15-30 cm soil section."], "Parenterm": ["根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000118"}
+,{"Term": ["株高整齐度"], "ID": ["TO:0001003"], "Concept": [], "Parenterm": ["株高"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001003"}
+,{"Term": ["叶绿素含量（CHLCN）"], "ID": ["TO:0000495"], "Concept": ["Measures the chlorophyll content in a green tissue. Includes both chlorophyll-a and chlorophyll-b. Chlorophyll is the green pigment found in plants."], "Parenterm": ["植物化学复合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000495"}
+,{"Term": ["赖氨酸含量"], "ID": ["TO:0009679"], "Concept": [], "Parenterm": ["氨基酸含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0009679"}
+,{"Term": ["0-15cm土层根质量密度"], "ID": ["TO:0000116"], "Concept": ["Root mass density 0-15 cm was calculated as the dry mass of roots per unit soil volume at 0-15 cm soil section."], "Parenterm": ["根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000116"}
+,{"Term": ["亚油酸含量"], "ID": ["TO:0005001"], "Concept": ["植株或植株器官如种子中亚油酸的含量."], "Parenterm": ["脂肪和油的含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005001"}
+,{"Term": ["抗性淀粉含量"], "ID": ["TO:9000696"], "Concept": ["抗性淀粉又称抗酶解淀粉，难消化淀粉，在小肠中不能被酶解，但在人的肠胃道结肠中可以与挥发性脂肪酸起发酵反应。"], "Parenterm": ["总淀粉含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:9000696"}
+,{"Term": ["硬脂酸含量（octadecanoic acid content, octadecoic acid content, stearic oil content）"], "ID": ["TO:0005003"], "Concept": ["植株或植株器官如种子中硬脂酸的含量."], "Parenterm": ["脂肪和油的含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005003"}
+,{"Term": ["耐旱性"], "ID": ["TO:0000276"], "Concept": [], "Parenterm": ["干旱相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000276"}
+,{"Term": ["干旱敏感"], "ID": ["TO:0000188"], "Concept": ["Drought sensitivity is highly interactive with crop phenology, plant growth prior to stress, and timing, duration, and intensity of drought stress. For many soils, it takes at least 2 rainless weeks to cause marked differences in drought sensitivity during the vegetative stage and at least 7 rainless days during the reproductive stage to cause severe drought injury. Leaf rolling precedes leaf drying during drought. Repeated ratings are recommended through progress of the drought."], "Parenterm": ["干旱相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000188"}
+,{"Term": ["类胡萝卜素含量"], "ID": ["TO:0000496"], "Concept": ["植株或植株某部分中类胡萝卜素含量。"], "Parenterm": ["色素含量", "植物化学复合物含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000496"}
+,{"Term": ["有丝分裂周期"], "ID": ["TO:0000730"], "Concept": ["The traits associated with various developmental landmarks and processes of cell division during the mitotic cell cycle."], "Parenterm": ["细胞分裂周期"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000730"}
+,{"Term": ["地下块茎形态解剖学特征"], "ID": ["TO:0000742"], "Concept": [], "Parenterm": ["块茎形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000742"}
+,{"Term": ["花序一次分枝形态解剖学性状"], "ID": ["TO:0000846"], "Concept": [], "Parenterm": ["花序分枝形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000846"}
+,{"Term": ["淹水条件下的存活率"], "ID": ["TO:0000512"], "Concept": ["植物在淹水条件下存活的百分率。"], "Parenterm": ["耐涝性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000512"}
+,{"Term": ["水淹敏感性"], "ID": ["TO:0000286"], "Concept": ["评估淹水条件下植株的敏感性。"], "Parenterm": ["耐涝性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000286"}
+,{"Term": ["茎伸长能力"], "ID": ["TO:0000170"], "Concept": ["一些植物能生长在洪涝地区，茎杆能随着水位的上涨而快速伸长。"], "Parenterm": ["耐涝性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000170"}
+,{"Term": ["水分利用效率"], "ID": ["TO:0001017"], "Concept": ["由光合速率与蒸腾速率之比决定。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001017"}
+,{"Term": ["总脂肪含量"], "ID": ["TO:0000602"], "Concept": ["植株或植株器官如种子中总的脂肪或脂质的含量。"], "Parenterm": ["脂肪和油组分相关性状", "脂肪和油的含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000602"}
+,{"Term": ["光合能力（光合效率;光合作用强度）"], "ID": ["TO:0000316"], "Concept": ["当传入的辐射能是饱和的、温度适宜、相对度高、大气中的二氧化碳和氧气的浓度正常时的光合作用速率。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000316"}
+,{"Term": ["渗透调节能力"], "ID": ["TO:0000507"], "Concept": ["植物在胁迫环境下调节渗透势的能力。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000507"}
+,{"Term": ["叶面积系数（叶面积指数）"], "ID": ["TO:0012001"], "Concept": ["单位土地面积上植物叶片总面积占土地面积的倍数。即：叶面积指数=叶片总面积/土地面积。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012001"}
+,{"Term": ["光合势（叶面积持续期）"], "ID": ["TO:0012010"], "Concept": ["以时间来衡量叶面积系数，叶面积与光合时间的乘积。"], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012010"}
+,{"Term": ["矿物离子运输特性"], "ID": ["TO:0020096"], "Concept": [], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020096"}
+,{"Term": ["荧光相关特性"], "ID": ["TO:0012006"], "Concept": [], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012006"}
+,{"Term": ["气孔进程相关性状"], "ID": ["TO:0020095"], "Concept": [], "Parenterm": ["生理过程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020095"}
+,{"Term": ["草铵膦敏感性（草铵膦抗性;glufosinate susceptibility, glufosinate tolerance）"], "ID": ["TO:0005007"], "Concept": [], "Parenterm": ["除草剂敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0005007"}
+,{"Term": ["中胚轴形态解剖学性状"], "ID": ["TO:0000758"], "Concept": ["中胚轴(PO:0020037)相关的形态解剖学性状"], "Parenterm": ["茎节间形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000758"}
+,{"Term": ["叶鞘基部颜色"], "ID": ["TO:0000367"], "Concept": ["叶鞘基部颜色的改变。"], "Parenterm": ["叶鞘色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000367"}
+,{"Term": ["下胚轴形态解剖学性状"], "ID": ["TO:0000757"], "Concept": ["下胚轴相关的形态解剖学性状"], "Parenterm": ["茎节间形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000757"}
+,{"Term": ["杀虫剂敏感性"], "ID": ["TO:0000182"], "Concept": [], "Parenterm": ["农药敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000182"}
+,{"Term": ["中波紫外线敏感性"], "ID": ["TO:0000601"], "Concept": ["Response shown by the plant in the presence of UV-B light stress."], "Parenterm": ["紫外线敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000601"}
+,{"Term": ["长波紫外线敏感性"], "ID": ["TO:0000600"], "Concept": ["Response shown by the plant in the presence of UV-A light stress."], "Parenterm": ["紫外线敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000600"}
+,{"Term": ["颖片蜡质"], "ID": ["TO:0020038"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020038"}
+,{"Term": ["颖壳宽度"], "ID": ["TO:0020034"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020034"}
+,{"Term": ["颖壳长度"], "ID": ["TO:0020033"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020033"}
+,{"Term": ["颖片茸毛"], "ID": ["TO:0020036"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020036"}
+,{"Term": ["颖片持续时间"], "ID": ["TO:0001001"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001001"}
+,{"Term": ["颖片盖"], "ID": ["TO:0001000"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001000"}
+,{"Term": ["颖片颜色"], "ID": ["TO:0000221"], "Concept": [], "Parenterm": ["颖壳形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000221"}
+,{"Term": ["萼片长度"], "ID": ["TO:0002607"], "Concept": ["Length of the sepal."], "Parenterm": ["萼片大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002607"}
+,{"Term": ["营养敏感性（）"], "ID": ["TO:0000480"], "Concept": ["Sensitivity response shown by the plant grown in either the excess or the deficient amount of the macro or micronutrient in the growth medium (soil/culture media)"], "Parenterm": ["生长基质敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000480"}
+,{"Term": ["剑叶角度"], "ID": ["TO:0000124"], "Concept": ["Leaf angle is measured near the collar as the angle of attachment between the flag leaf blade and the main inflorescence axis in grass plants."], "Parenterm": ["叶倾角"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000124"}
+,{"Term": ["生长素敏感性"], "ID": ["TO:0000163"], "Concept": ["对施用生长素的应答反应。"], "Parenterm": ["植物激素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000163"}
+,{"Term": ["萼片宽度"], "ID": ["TO:0002608"], "Concept": ["Width of sepals in a flower."], "Parenterm": ["萼片大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002608"}
+,{"Term": ["PH值敏感性"], "ID": ["TO:0000254"], "Concept": [], "Parenterm": ["生长基质敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000254"}
+,{"Term": ["油菜素内酯敏感性"], "ID": ["TO:0002677"], "Concept": ["植物对施用油菜素内酯的敏感性。"], "Parenterm": ["植物激素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002677"}
+,{"Term": ["乙烯敏感性（ethylene response）"], "ID": ["TO:0000173"], "Concept": ["对生长媒介或环境中乙烯含量的敏感性。"], "Parenterm": ["植物激素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000173"}
+,{"Term": ["真菌性病害抗性"], "ID": ["TO:0000439"], "Concept": ["植物单株或群体在应答真菌侵染后所表现出的抗性或敏感性"], "Parenterm": ["抗病性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000439"}
+,{"Term": ["类支原体引起的疾病抗性（MLO, MLORS）"], "ID": ["TO:0000013"], "Concept": ["An assay to determine the resistance exhibited by a plant or a group of plants (population) in response to the disease caused by a mycoplasma-like pathogen infection as compared to the susceptible and"], "Parenterm": ["抗病性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000013"}
+,{"Term": ["病毒病抗性（）"], "ID": ["TO:0000148"], "Concept": ["An assay to determine the resistance exhibited by a plant or a group of plants (population) in response to the disease caused by a viral pathogen infection as compared to the susceptible and/or the re"], "Parenterm": ["抗病性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000148"}
+,{"Term": ["细菌性病害抗性（）"], "ID": ["TO:0000315"], "Concept": ["An assay to determine the resistance exhibited by a plant or a group of plants (population) in response to the disease caused by a bacterial pathogen infection as compared to the susceptible and/or th"], "Parenterm": ["抗病性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000315"}
+,{"Term": ["短叶（）"], "ID": ["TO:0001351"], "Concept": [], "Parenterm": ["叶长"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001351"}
+,{"Term": ["花器官宽度"], "ID": ["TO:0002615"], "Concept": ["花器官的宽度"], "Parenterm": ["花器官大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002615"}
+,{"Term": ["花器官长度"], "ID": ["TO:0002614"], "Concept": ["花器官的长度"], "Parenterm": ["花器官大小"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002614"}
+,{"Term": ["糙米形状"], "ID": ["TO:0000287"], "Concept": ["糙米的形状，糙米是稻谷经收割、清洗并脱壳后形成的。"], "Parenterm": ["粒形"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000287"}
+,{"Term": ["相对叶绿素含量"], "ID": ["TO:0001016"], "Concept": ["处理和对照（正常条件）叶绿素含量的对比"], "Parenterm": ["叶绿素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001016"}
+,{"Term": ["叶片色彩分布"], "ID": ["TO:0011001"], "Concept": [], "Parenterm": ["叶片色"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011001"}
+,{"Term": ["叶绿素a/b比值"], "ID": ["TO:0000298"], "Concept": ["计算绿色组织中叶绿素a与叶绿素b含量的比值"], "Parenterm": ["叶绿素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000298"}
+,{"Term": ["叶绿素b含量"], "ID": ["TO:0000295"], "Concept": ["测定绿色组织中叶绿素b的含量"], "Parenterm": ["叶绿素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000295"}
+,{"Term": ["叶绿素a含量"], "ID": ["TO:0000293"], "Concept": ["测定绿色组织中叶绿素a的含量"], "Parenterm": ["叶绿素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000293"}
+,{"Term": ["0-15cm土层根质量密度百分率"], "ID": ["TO:0000122"], "Concept": ["Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 0-15cm depth."], "Parenterm": ["0-15cm土层根质量密度", "根生物量密度百分率"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000122"}
+,{"Term": ["30-45cm土层根质量密度百分率"], "ID": ["TO:0000125"], "Concept": ["Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 30-45cm depth."], "Parenterm": ["根生物量密度百分率", "30-45cm土层根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000125"}
+,{"Term": ["15-30cm土层根生物量密度百分率（prmd 15-30.）"], "ID": ["TO:0000123"], "Concept": ["Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 15-30cm depth."], "Parenterm": ["根生物量密度百分率", "15-30cm土层根质量密度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000123"}
+,{"Term": ["地下块茎外观"], "ID": ["TO:0000745"], "Concept": [], "Parenterm": ["地下块茎形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000745"}
+,{"Term": ["地下块茎质量"], "ID": ["TO:0000746"], "Concept": ["地下块茎的质量"], "Parenterm": ["地下块茎形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000746"}
+,{"Term": ["地下块茎大小"], "ID": ["TO:0000744"], "Concept": [], "Parenterm": ["地下块茎形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000744"}
+,{"Term": ["地下块茎形状"], "ID": ["TO:0000743"], "Concept": ["地下块茎的形状"], "Parenterm": ["地下块茎形态解剖学特征"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000743"}
+,{"Term": ["一次枝梗姿势"], "ID": ["TO:0011002"], "Concept": ["The attitude of the inflorescence primary branch in terms of upright and drooping characters."], "Parenterm": ["花序一次分枝形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011002"}
+,{"Term": ["耐淹性"], "ID": ["TO:0000524"], "Concept": [], "Parenterm": ["水淹敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000524"}
+,{"Term": ["叶黄素含量"], "ID": ["TO:0000301"], "Concept": ["The xanthophyll content in a plant or plant part. These are any group of naturally occurring tetraterpenes (carotenoids) that are synthesized only in plants and contain oxygen in various forms."], "Parenterm": ["类胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000301"}
+,{"Term": ["光合速率"], "ID": ["TO:0001015"], "Concept": ["单位时间内由植物固定的碳总量，通过测定玻璃罩中植物叶片上二氧化碳浓度的变化来测量。"], "Parenterm": ["光合能力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001015"}
+,{"Term": ["胡萝卜素含量"], "ID": ["TO:0000289"], "Concept": ["The carotene content in a plant or plant part. These are any group of naturally occurring tetraterpenes (carotenoids) that are synthesized only in plants and differ from xanthophyll by not having oxygen in their molecule."], "Parenterm": ["类胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000289"}
+,{"Term": ["硝酸盐吸收"], "ID": ["TO:0020100"], "Concept": ["在植物或植物一部分测得的总硝酸盐离子吸收量。"], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020100"}
+,{"Term": ["渗透调节断点"], "ID": ["TO:0001028"], "Concept": ["叶水势对叶片相对含水量回归中的叶水势断点。"], "Parenterm": ["渗透调节能力"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001028"}
+,{"Term": ["磷吸收"], "ID": ["TO:0000511"], "Concept": ["The total phosphorus ion uptake measured in a plant or a plant part."], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000511"}
+,{"Term": ["钾吸收"], "ID": ["TO:0000514"], "Concept": ["植物或植物一部分测得的总钾离子吸收量。"], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000514"}
+,{"Term": ["硝酸盐运输"], "ID": ["TO:0020099"], "Concept": [], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020099"}
+,{"Term": ["非光化学猝灭"], "ID": ["TO:0020117"], "Concept": ["保持光能耗散和利用之间平衡的过程，以最小化在无光条件下氧化分子的产生。"], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020117"}
+,{"Term": ["钠吸收"], "ID": ["TO:0000527"], "Concept": ["植物或植物一部分测得的钠离子吸收总量。"], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000527"}
+,{"Term": ["淀粉运输"], "ID": ["TO:0020101"], "Concept": ["Trait associated with directed movement of starch."], "Parenterm": ["矿物离子运输特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020101"}
+,{"Term": ["光化学淬灭"], "ID": ["TO:0020116"], "Concept": ["在光能耗散和利用之间保持平衡的过程，以尽量减少光条件下氧化分子的产生。"], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020116"}
+,{"Term": ["叶绿素荧光猝灭"], "ID": ["TO:0020115"], "Concept": ["维持光能耗散和利用之间平衡的过程，以尽量减少氧化分子的产生。"], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020115"}
+,{"Term": ["叶绿素荧光诱导动力学"], "ID": ["TO:0012005"], "Concept": [], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012005"}
+,{"Term": ["连续荧光效应"], "ID": ["TO:0012009"], "Concept": [], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012009"}
+,{"Term": ["量子产额"], "ID": ["TO:0012004"], "Concept": [], "Parenterm": ["荧光相关特性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012004"}
+,{"Term": ["气孔关闭时间"], "ID": ["TO:0000521"], "Concept": ["因为胁迫、光合作用速率或蒸腾等原因，气孔关闭经历的平均时间。"], "Parenterm": ["气孔进程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000521"}
+,{"Term": ["气孔关闭比率"], "ID": ["TO:0000520"], "Concept": ["因为胁迫、光合作用速率或蒸腾等原因，气孔关闭的比率。"], "Parenterm": ["气孔进程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000520"}
+,{"Term": ["气孔阻力"], "ID": ["TO:0000523"], "Concept": ["根据蒸腾速率和湿度梯度计算气孔阻力（或其倒数，气孔导度）。湿度梯度是指叶片内部的湿度，根据叶片温度确定，假设叶片的空气空间中充满了蒸汽，减去直接测量的环境空气湿度。"], "Parenterm": ["气孔进程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000523"}
+,{"Term": ["气孔导度"], "ID": ["TO:0000522"], "Concept": ["表示的是气孔张开的程度，衡量通水汽和二氧化碳通过气孔时的最大通过速率。"], "Parenterm": ["气孔进程相关性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000522"}
+,{"Term": ["幼胚中胚轴形态解剖学性状"], "ID": ["TO:0000773"], "Concept": ["幼胚中胚轴(PO:0025294)相关的形态解剖学性状"], "Parenterm": ["中胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000773"}
+,{"Term": ["幼苗中胚轴形态解剖学性状"], "ID": ["TO:0000772"], "Concept": ["幼苗中胚轴(PO:0025295)相关的形态解剖学性状"], "Parenterm": ["中胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000772"}
+,{"Term": ["幼胚下胚轴形态解剖学性状"], "ID": ["TO:0000771"], "Concept": ["幼胚下胚轴(PO:0025290)相关的形态解剖学性状"], "Parenterm": ["下胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000771"}
+,{"Term": ["中胚轴长度"], "ID": ["TO:0000544"], "Concept": ["中胚轴(PO:0020037)长度相关的形态解剖学性状"], "Parenterm": ["中胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000544"}
+,{"Term": ["幼苗下胚轴形态解剖学性状"], "ID": ["TO:0000769"], "Concept": ["与幼苗下胚轴相关的形态解剖学性状"], "Parenterm": ["下胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000769"}
+,{"Term": ["颖片茸毛密度"], "ID": ["TO:0020035"], "Concept": [], "Parenterm": ["颖片茸毛"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020035"}
+,{"Term": ["大量元素敏感性（）"], "ID": ["TO:0000176"], "Concept": ["Sensitivity response shown by the plant grown in either the excess or deficient amount of the macronutrient in the growth medium."], "Parenterm": ["营养敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000176"}
+,{"Term": ["其它营养素敏感性（）"], "ID": ["TO:0000247"], "Concept": [], "Parenterm": ["营养敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000247"}
+,{"Term": ["颖片茸毛长度"], "ID": ["TO:0020037"], "Concept": [], "Parenterm": ["颖片茸毛"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020037"}
+,{"Term": ["耐盐性（盐敏感性）"], "ID": ["TO:0000429"], "Concept": [], "Parenterm": ["营养敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000429"}
+,{"Term": ["酸敏感性"], "ID": ["TO:0000479"], "Concept": [], "Parenterm": ["PH值敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000479"}
+,{"Term": ["碱敏感性（耐碱性）"], "ID": ["TO:0000481"], "Concept": [], "Parenterm": ["PH值敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000481"}
+,{"Term": ["微量营养素敏感性（micronutrient deficiency）"], "ID": ["TO:0000080"], "Concept": ["Sensitivity response shown by the plant grown in either the excess or deficient amount of the micronutrient in the growth medium (soil)"], "Parenterm": ["营养敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000080"}
+,{"Term": ["黑粉病抗性"], "ID": ["TO:0000048"], "Concept": ["致病因子：狼尾草黑粉菌。症状：受侵染的谷粒整个颖壳出现小的黑色脓疱或者条纹，严重感染时，破裂的颖片产生短喙状或圆柱状突起。"], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000048"}
+,{"Term": ["水稻胡麻斑病抗性（）"], "ID": ["TO:0000356"], "Concept": ["Causal agent: Cochliobolus miyabeanus (Bipolaris oryzae, Drechslera oryzae).Symptom: typical leaf spots are small, oval or circular and dark brown. Larger lesions usually have same color on the edges but have a pale (usually grayish) center. Most spots have a light yellow halo around the outer edge."], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000356"}
+,{"Term": ["纹枯病抗性"], "ID": ["TO:0000255"], "Concept": [], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000255"}
+,{"Term": ["稻曲病抗性"], "ID": ["TO:0000129"], "Concept": ["致病因子：稻曲病菌；症状：感染的谷粒被黄绿色或黑绿色的孢子球包裹。"], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000129"}
+,{"Term": ["鞘腐病抗性"], "ID": ["TO:0000086"], "Concept": ["病因：稻帚枝霉菌，病症：近穗部的叶鞘呈圆形或不规则棕色到灰色病变，有时合并出现穗伸出障碍的现象。"], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000086"}
+,{"Term": ["稻瘟病抗性（blast disease resistance, blast disease susceptibility, BLRS）"], "ID": ["TO:0000074"], "Concept": [], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000074"}
+,{"Term": ["恶苗病抗性"], "ID": ["TO:0000418"], "Concept": ["病因：藤仓赤霉菌，病症：植株异常伸长、分蘖少，通常在产谷前死亡。"], "Parenterm": ["真菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000418"}
+,{"Term": ["黄矮病抗性（YD, YDRS）"], "ID": ["TO:0000292"], "Concept": [], "Parenterm": ["类支原体引起的疾病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000292"}
+,{"Term": ["水稻矮缩病毒病抗性（）"], "ID": ["TO:0020148"], "Concept": [], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0020148"}
+,{"Term": ["水稻草状矮缩病抗性（RGSVRS）"], "ID": ["TO:0000213"], "Concept": ["Causal agent: rice grassy stunt virus 1 (RGSV1) and rice grassy stunt virus 2 (RGSV2). symptoms: RGSV1 causes severe stunting, excessive tillering, pale green to yellow and narrow leaves with small rusty spots. RGSV2 causes severe stunting, excessive tillering, yellow to orange and narrow leaves with small rusty spots"], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000213"}
+,{"Term": ["水稻东格鲁病抗性（）"], "ID": ["TO:0000413"], "Concept": ["病因：水稻东格鲁球状病毒和东格鲁杆状病毒。该病由黑尾叶蝉传播。症状：叶片橙黄色，植株发育迟缓、矮小瘦弱，分蘖量降低。"], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000413"}
+,{"Term": ["水稻齿叶矮缩病抗性"], "ID": ["TO:0000386"], "Concept": ["Causal agent: rice ragged stunt virus (RRSV). Symptoms: plants are stunted but remain dark green. Leaves are ragged and twisted. Vein swelling on leaf collar, leaf blades and leaf sheaths."], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000386"}
+,{"Term": ["水稻黑条矮缩病抗性（BSDVRS）"], "ID": ["TO:0000020"], "Concept": [], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000020"}
+,{"Term": ["水稻黄斑驳病毒病抗性"], "ID": ["TO:0000088"], "Concept": ["Causal agent: rice yellow mottle virus (RYMV). Symptoms: stunting, reduced tillering, mottling and yellowish streaking of the leaves, delayed flowering or incomplete emergence of the panicle; in extreme cases, death of plants."], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000088"}
+,{"Term": ["水稻白叶病抗性（HBVRS, RHBV）"], "ID": ["TO:0000147"], "Concept": ["Causal agent: rice hoja blanca virus (RHBV). Symptoms: cream colored to yellow spots, elongating and coalescing to form longitudinal yellowish green to pale green striations. Streaks may coalesce to cover the whole leaf. Brown and sterile glumes with typical \"parrot beak\" shape of deformation."], "Parenterm": ["病毒病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000147"}
+,{"Term": ["水稻立枯病抗性（）"], "ID": ["TO:0000204"], "Concept": ["Causal agent: Xanthomonas oryzae pv. oryzae. symptoms: lesions usually start near the leaf tips or leaf margins or both, and extend down the outer edge(s). young lesions are pale to grayish green, lat"], "Parenterm": ["细菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000204"}
+,{"Term": ["水稻细菌性条斑病抗性（BLS, BLSRS）"], "ID": ["TO:0000203"], "Concept": [], "Parenterm": ["细菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000203"}
+,{"Term": ["花柱长度"], "ID": ["TO:0011009"], "Concept": ["雌蕊花柱的长度。"], "Parenterm": ["花器官长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011009"}
+,{"Term": ["柱头长度"], "ID": ["TO:0011008"], "Concept": ["雌蕊柱头的长度。"], "Parenterm": ["花器官长度"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0011008"}
+,{"Term": ["净光合速率"], "ID": ["TO:0001027"], "Concept": ["光合作用总量（单位时间内植物固定的碳总量）和呼吸量（同一时间内代谢损失的碳总量）之间的差异。"], "Parenterm": ["光合速率"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0001027"}
+,{"Term": ["白叶枯病抗性"], "ID": ["TO:0000175"], "Concept": ["致病因子：白叶枯病菌。症状：病变通常开始于叶尖或叶缘的附近，然后向下边缘延伸。"], "Parenterm": ["细菌性病害抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000175"}
+,{"Term": ["给定波长下的量子产额"], "ID": ["TO:0012008"], "Concept": [], "Parenterm": ["量子产额"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012008"}
+,{"Term": ["光变曲线确定的量子产率"], "ID": ["TO:0012007"], "Concept": [], "Parenterm": ["量子产额"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0012007"}
+,{"Term": ["幼苗下胚轴长度"], "ID": ["TO:0006065"], "Concept": ["幼苗下胚轴长度相关的形态解剖学性状"], "Parenterm": ["幼苗下胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0006065"}
+,{"Term": ["幼苗下胚轴颜色"], "ID": ["TO:0000759"], "Concept": ["幼苗下胚轴颜色相关的形态解剖学性状"], "Parenterm": ["幼苗下胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000759"}
+,{"Term": ["无环胡萝卜素含量"], "ID": ["TO:0002698"], "Concept": ["The acyclic carotene content in a plant or plant part."], "Parenterm": ["胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002698"}
+,{"Term": ["次要大量元素敏感性（）"], "ID": ["TO:0000251"], "Concept": [], "Parenterm": ["大量元素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000251"}
+,{"Term": ["主要营养素敏感性（）"], "ID": ["TO:0000248"], "Concept": [], "Parenterm": ["大量元素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000248"}
+,{"Term": ["有环胡萝卜素含量"], "ID": ["TO:0002697"], "Concept": ["The cyclic carotene content in a plant or plant part."], "Parenterm": ["胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002697"}
+,{"Term": ["幼苗下胚轴尺寸"], "ID": ["TO:0000781"], "Concept": ["幼苗下胚轴尺寸相关的形态解剖学性状"], "Parenterm": ["幼苗下胚轴形态解剖学性状"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000781"}
+,{"Term": ["铝敏感性（）"], "ID": ["TO:0000354"], "Concept": ["Sensitivity to aluminum content in the growth media."], "Parenterm": ["其它营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000354"}
+,{"Term": ["硅敏感性"], "ID": ["TO:0000031"], "Concept": [], "Parenterm": ["其它营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000031"}
+,{"Term": ["锌元素敏感性（zinc deficiency）"], "ID": ["TO:0000351"], "Concept": ["Sensitivity to the zinc content in the growth medium. It acts as cofactor for certain enzymes like Class II Aldolases , Metalloproteases, alkaline phosphatase, etc"], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000351"}
+,{"Term": ["锰元素敏感性"], "ID": ["TO:0000073"], "Concept": [], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000073"}
+,{"Term": ["铁元素敏感性（铁毒性）"], "ID": ["TO:0000224"], "Concept": ["对生长基中铁离子含量的敏感度，它对叶绿素合成和一些酶活性非常重要。"], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000224"}
+,{"Term": ["钼元素敏感性（）"], "ID": ["TO:0000025"], "Concept": ["Important for nitrate fixation."], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000025"}
+,{"Term": ["铜元素敏感性"], "ID": ["TO:0000021"], "Concept": ["对生长介质中铜离子含量的敏感性，在光合作用中一些重要酶的合成中起辅助因子的作用。"], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000021"}
+,{"Term": ["穗颈瘟抗性"], "ID": ["TO:0000477"], "Concept": ["Causal agent: Magnaporthe grisea (Pyricularia oryzae). Symptoms are dark necrotic lesions covering partially or completely around the panicle base (node) or the uppermost internode or the lower part."], "Parenterm": ["稻瘟病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000477"}
+,{"Term": ["硼元素敏感性"], "ID": ["TO:0000018"], "Concept": ["Sensitivity to the boron content in the growth medium. It plays an important role in cell division."], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000018"}
+,{"Term": ["叶瘟抗性"], "ID": ["TO:0000468"], "Concept": ["Causal agent: Magnaporthe grisea (Pyricularia oryzae - the imperfect/anamorphic stage name)."], "Parenterm": ["稻瘟病抗性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000468"}
+,{"Term": ["叶黄素含量"], "ID": ["TO:0002701"], "Concept": ["The leutein content in a plant or plant part."], "Parenterm": ["叶黄素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002701"}
+,{"Term": ["氯元素敏感性（）"], "ID": ["TO:0000029"], "Concept": ["Sensitivity to the chlorine content in the growth medium. Chloride helps regulate the correct pH (acid/alkaline) balance. This is a major electrolyte in the living cell besides sodium and potassium. It is available to the cell mainly in the form of NaCl and KCl salts."], "Parenterm": ["微量营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000029"}
+,{"Term": ["镁元素敏感性（magnesium deficiency）"], "ID": ["TO:0000010"], "Concept": ["对镁元素含量的敏感性，镁对叶绿素生物合成和金属离子平衡非常重要。"], "Parenterm": ["次要大量元素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000010"}
+,{"Term": ["硫元素敏感性（sulfur deficiency）"], "ID": ["TO:0000007"], "Concept": ["Response by the plant in terms of sensitivity to sulfur content in the growth medium. It is important for synthesis of some amino acid residues"], "Parenterm": ["次要大量元素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000007"}
+,{"Term": ["钙元素敏感性（calcium deficiency）"], "ID": ["TO:0000006"], "Concept": ["Sensitivity to the calcium content in the growth medium. Plays an important role in cell wall synthesis and enzyme activities."], "Parenterm": ["次要大量元素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000006"}
+,{"Term": ["磷素敏感性（）"], "ID": ["TO:0000102"], "Concept": ["Sensitivity to the phosphorous content in the growth medium. It is important in various biochemical pathways and storage of energy."], "Parenterm": ["主要营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000102"}
+,{"Term": ["番茄红素含量（ψ-胡萝卜素含量）"], "ID": ["TO:0002699"], "Concept": ["The lycopene content in a plant or plant part. Lycopene is the most efficient quencher of singlet oxygen free radicals."], "Parenterm": ["无环胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002699"}
+,{"Term": ["钾素敏感性（）"], "ID": ["TO:0000008"], "Concept": ["Sensitivity to the potassium ion content in the growth medium. It plays an important role in controlling water by osmosis and also in the metal ion homeostasis."], "Parenterm": ["主要营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000008"}
+,{"Term": ["氮素敏感性"], "ID": ["TO:0000011"], "Concept": ["植物对生长基质中氮含量的敏感性，它对于蛋白合成、叶绿素等非常重要。"], "Parenterm": ["主要营养素敏感性"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0000011"}
+,{"Term": ["α-胡萝卜素含量"], "ID": ["TO:0002696"], "Concept": ["The alpha-carotene content in a plant or plant part. The alpha-carotene is the second most common form of carotenoid."], "Parenterm": ["有环胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002696"}
+,{"Term": ["β-胡萝卜素含量"], "ID": ["TO:0002695"], "Concept": ["The beta-carotene content in a plant or plant part. beta-carotene is the most common form of carotenoid."], "Parenterm": ["有环胡萝卜素含量"], "URL": "http://www.ricedata.cn/ontology/ontology.aspx?db=&ta=TO:0002695"}
+
+]
